@@ -23,7 +23,6 @@ jobs:
         run: |
           sudo curl -L -o '/usr/bin/aptb' 'https://raw.githubusercontent.com/invalidunit/action/main/aptb'
           sudo chmod -R 0755 '/usr/bin/aptb'
-          touch /tmp/.no_sleep
           
       - name: Find updates and download them
         run: |
