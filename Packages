@@ -1366,6 +1366,42 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 9600
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_2.0.5_iphoneos-arm_c068ca61f01e70dc029347f3b3a565268194235e6f3a29dc1ac9e0acb397ddc0.deb
+Size: 2127000
+MD5sum: d7513dbb4436ffaecf85d290db717cc7
+SHA1: ee14f186322c0b1c0b19b0eccfa559c83f1a69f7
+SHA256: c068ca61f01e70dc029347f3b3a565268194235e6f3a29dc1ac9e0acb397ddc0
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 9568
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.5_iphoneos-arm64_bfbbed148d199f2a542333623410f0964ee1dd1ab850a511ca878193af3cadaf.deb
+Size: 2129858
+MD5sum: f20e94232370660372a472f21d4c22a8
+SHA1: dac22f628d5308dad0164368e3676e440ad1a9ad
+SHA256: bfbbed148d199f2a542333623410f0964ee1dd1ab850a511ca878193af3cadaf
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.5
 Architecture: iphoneos-arm
