@@ -1546,6 +1546,42 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 10264
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_2.3.0_iphoneos-arm_f13667b69de41a2534af3051244d10a2b0f07a0502859f560db9144664fe5e4b.deb
+Size: 2300190
+MD5sum: 31b40e350f10335b82dc2ea9713c273d
+SHA1: 3edc037d9684436e49eb75abb22925c0c0cf8b45
+SHA256: f13667b69de41a2534af3051244d10a2b0f07a0502859f560db9144664fe5e4b
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 10232
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.3.0_iphoneos-arm64_cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517.deb
+Size: 2275154
+MD5sum: a0e006e0a305db1b40ed888dfa8ebe67
+SHA1: a2daec43a9796e98a1659040d68470d94f9ec0fa
+SHA256: cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.5
 Architecture: iphoneos-arm
