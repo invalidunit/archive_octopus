@@ -2086,6 +2086,42 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Version: 3.6.5
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 9860
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_3.6.5_iphoneos-arm_285273afa7590110cdb52a7e1978a702622a8d503c38a56d4a567e716766071d.deb
+Size: 2244260
+MD5sum: 2602d7fd021ed6e40fd6f46dfb34c339
+SHA1: 956c55b672522389331f8314f6a972ba83771b1e
+SHA256: 285273afa7590110cdb52a7e1978a702622a8d503c38a56d4a567e716766071d
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 3.6.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 9808
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.6.5_iphoneos-arm64_00ad4fad9699cce4562799af91806cffbd659f5310df76aba05fdd049a25555b.deb
+Size: 2239996
+MD5sum: afebbd472dcacf3448178a0ad1641dc3
+SHA1: 1248d64f90ac104b403ced6d8e4cd26bbc63a8e7
+SHA256: 00ad4fad9699cce4562799af91806cffbd659f5310df76aba05fdd049a25555b
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.5
 Architecture: iphoneos-arm64e
