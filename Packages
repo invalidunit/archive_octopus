@@ -1384,6 +1384,42 @@ Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Version: 1.8.5
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 6204
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.5_iphoneos-arm_80538b54ef65d161481038c3ab949d25d1071a2abe26aa7bf5c1441440b971a2.deb
+Size: 1670032
+MD5sum: e0d468e12d88817ac8c798f88f80d221
+SHA1: 4f95f87a0627db13d82f0517deff1e4954a4dafc
+SHA256: 80538b54ef65d161481038c3ab949d25d1071a2abe26aa7bf5c1441440b971a2
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 6188
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.5_iphoneos-arm64_713616da0ead68ee29d4bf6384ee2d0b357fc2a35a39ffa100be3ae54210460e.deb
+Size: 1660478
+MD5sum: 974ae2db9cac4128c32b73bebdb9d53b
+SHA1: a9ebe5534dee58b965b973680ebaf5e7dc7dd24a
+SHA256: 713616da0ead68ee29d4bf6384ee2d0b357fc2a35a39ffa100be3ae54210460e
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: cn.octoforce.squidextender
 Version: 1.0.1
 Architecture: iphoneos-arm
