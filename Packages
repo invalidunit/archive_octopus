@@ -2338,6 +2338,42 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Version: 3.7.3
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 10008
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_3.7.3_iphoneos-arm_d4db8d85e6d4a844b764114a9ade8510af3db376a20c1d7493ca8d792e134dbf.deb
+Size: 2282738
+MD5sum: 751b0b279d0e05ef4b94a94a6c937bc8
+SHA1: b03be4790d68c38b25b5adcd951b99cd4da3ad02
+SHA256: d4db8d85e6d4a844b764114a9ade8510af3db376a20c1d7493ca8d792e134dbf
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Version: 3.7.3
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 9972
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.3_iphoneos-arm64_83771e686533f5336ade701cc9d99ba3cd46602a03f154b631ef769ca4c84673.deb
+Size: 2273096
+MD5sum: b49a914df0ab5caf0fdd53b130b84c64
+SHA1: f118b09d07610182115c90ac2b772ade4cb5c05e
+SHA256: 83771e686533f5336ade701cc9d99ba3cd46602a03f154b631ef769ca4c84673
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.5
 Architecture: iphoneos-arm
