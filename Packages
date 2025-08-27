@@ -1,15 +1,15 @@
 Package: cn.octoforce.copyvault
 Version: 1.3.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 12096
+Installed-Size: 12128
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.0_iphoneos-arm64_c4a80bad95d3ec6463521ce15dc6fa1026b5c642861d7be24f65c881f618de8f.deb
-Size: 3293674
-MD5sum: 200d99fe16264db13e4fb54f31cb1dd6
-SHA1: 933bf693e673493c2dccfa8f229c0bdb8f91d6b9
-SHA256: c4a80bad95d3ec6463521ce15dc6fa1026b5c642861d7be24f65c881f618de8f
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.0_iphoneos-arm_f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13.deb
+Size: 3300058
+MD5sum: 8571f443a65cd1f77f3e0fe9b8dc633f
+SHA1: b702139dc7f48dc6ed9b5f9643e77efbd2c73cd0
+SHA256: f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13
 Section: Tweaks
 Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -34,16 +34,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 12128
+Installed-Size: 12096
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.0_iphoneos-arm_f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13.deb
-Size: 3300058
-MD5sum: 8571f443a65cd1f77f3e0fe9b8dc633f
-SHA1: b702139dc7f48dc6ed9b5f9643e77efbd2c73cd0
-SHA256: f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.0_iphoneos-arm64_c4a80bad95d3ec6463521ce15dc6fa1026b5c642861d7be24f65c881f618de8f.deb
+Size: 3293674
+MD5sum: 200d99fe16264db13e4fb54f31cb1dd6
+SHA1: 933bf693e673493c2dccfa8f229c0bdb8f91d6b9
+SHA256: c4a80bad95d3ec6463521ce15dc6fa1026b5c642861d7be24f65c881f618de8f
 Section: Tweaks
 Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -51,16 +51,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 12096
+Installed-Size: 12160
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.1_iphoneos-arm64_803d5fa0bc0df4a81e88eb0782c327f133ed1647c4039e7c150bffa7fc28ae1c.deb
-Size: 3297508
-MD5sum: 041aacacd63cfccf55aadc2549da8bcc
-SHA1: 3966fea9efa003529943b663783d77bba67d6057
-SHA256: 803d5fa0bc0df4a81e88eb0782c327f133ed1647c4039e7c150bffa7fc28ae1c
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.1_iphoneos-arm_6b5693fe1df585e206c2eb18375c2554655d472821172be54fa2a8aefc15ab96.deb
+Size: 3315614
+MD5sum: 1bfae029f0c6117091e982360497ba72
+SHA1: df47fb88b5ded291af5cbe9ae8ff2cb2c57940c2
+SHA256: 6b5693fe1df585e206c2eb18375c2554655d472821172be54fa2a8aefc15ab96
 Section: Tweaks
 Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -85,16 +85,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 12160
+Installed-Size: 12096
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.1_iphoneos-arm_6b5693fe1df585e206c2eb18375c2554655d472821172be54fa2a8aefc15ab96.deb
-Size: 3315614
-MD5sum: 1bfae029f0c6117091e982360497ba72
-SHA1: df47fb88b5ded291af5cbe9ae8ff2cb2c57940c2
-SHA256: 6b5693fe1df585e206c2eb18375c2554655d472821172be54fa2a8aefc15ab96
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.1_iphoneos-arm64_803d5fa0bc0df4a81e88eb0782c327f133ed1647c4039e7c150bffa7fc28ae1c.deb
+Size: 3297508
+MD5sum: 041aacacd63cfccf55aadc2549da8bcc
+SHA1: 3966fea9efa003529943b663783d77bba67d6057
+SHA256: 803d5fa0bc0df4a81e88eb0782c327f133ed1647c4039e7c150bffa7fc28ae1c
 Section: Tweaks
 Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -102,16 +102,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 12128
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.2_iphoneos-arm64_14bdb523c58945665f2699f1a12556ce6945ab96b85aeda75df7f8a9bf7e0e1b.deb
-Size: 3314704
-MD5sum: 76e0bb206d8113c60cb469d7f8949e1c
-SHA1: 7b025aa963798d8fec478eaeeddd9569f7e067c1
-SHA256: 14bdb523c58945665f2699f1a12556ce6945ab96b85aeda75df7f8a9bf7e0e1b
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.2_iphoneos-arm_c6c0f7604f68961f4bdcca84474e94cb7a0b3fb7eecb18c86570e707569be34f.deb
+Size: 3291346
+MD5sum: a1d7c18540ee264ec421795842e3b839
+SHA1: dd26ef01f5b4b421ee847ec54b9711db537ff0e8
+SHA256: c6c0f7604f68961f4bdcca84474e94cb7a0b3fb7eecb18c86570e707569be34f
 Section: Tweaks
 Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -136,16 +136,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 12128
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.2_iphoneos-arm_c6c0f7604f68961f4bdcca84474e94cb7a0b3fb7eecb18c86570e707569be34f.deb
-Size: 3291346
-MD5sum: a1d7c18540ee264ec421795842e3b839
-SHA1: dd26ef01f5b4b421ee847ec54b9711db537ff0e8
-SHA256: c6c0f7604f68961f4bdcca84474e94cb7a0b3fb7eecb18c86570e707569be34f
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.2_iphoneos-arm64_14bdb523c58945665f2699f1a12556ce6945ab96b85aeda75df7f8a9bf7e0e1b.deb
+Size: 3314704
+MD5sum: 76e0bb206d8113c60cb469d7f8949e1c
+SHA1: 7b025aa963798d8fec478eaeeddd9569f7e067c1
+SHA256: 14bdb523c58945665f2699f1a12556ce6945ab96b85aeda75df7f8a9bf7e0e1b
 Section: Tweaks
 Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -153,16 +153,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 16592
+Installed-Size: 16624
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.5_iphoneos-arm64_e92aef7f8e3ca7578da098de212dc168616da002fd089c36ac1f5a5e53cfcd2d.deb
-Size: 4465024
-MD5sum: bb329c8cf48c2b00a59389ee3fa5766f
-SHA1: 8bd709f4382672cba792052be64a408292abb771
-SHA256: e92aef7f8e3ca7578da098de212dc168616da002fd089c36ac1f5a5e53cfcd2d
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.5_iphoneos-arm_3305cf77164b39c8188b587540cc9ab31cb874ff5e4cebfb0c50f8e142267740.deb
+Size: 4480606
+MD5sum: a85116d48d43edab5443ad22b59785e7
+SHA1: 55c74336113c2988cdd7e0abf46135ac967c6724
+SHA256: 3305cf77164b39c8188b587540cc9ab31cb874ff5e4cebfb0c50f8e142267740
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -187,16 +187,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 16624
+Installed-Size: 16592
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.5_iphoneos-arm_3305cf77164b39c8188b587540cc9ab31cb874ff5e4cebfb0c50f8e142267740.deb
-Size: 4480606
-MD5sum: a85116d48d43edab5443ad22b59785e7
-SHA1: 55c74336113c2988cdd7e0abf46135ac967c6724
-SHA256: 3305cf77164b39c8188b587540cc9ab31cb874ff5e4cebfb0c50f8e142267740
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.5_iphoneos-arm64_e92aef7f8e3ca7578da098de212dc168616da002fd089c36ac1f5a5e53cfcd2d.deb
+Size: 4465024
+MD5sum: bb329c8cf48c2b00a59389ee3fa5766f
+SHA1: 8bd709f4382672cba792052be64a408292abb771
+SHA256: e92aef7f8e3ca7578da098de212dc168616da002fd089c36ac1f5a5e53cfcd2d
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -204,16 +204,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.5+1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 16724
+Installed-Size: 16740
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm64_d4b6281271bd28030190727b3e5b62c25e7a2751fd8305a6ced446f443c611c1.deb
-Size: 4504864
-MD5sum: 4221f9fd8fb49015828822e3807b4536
-SHA1: 5592ae0dca0400047d817bed9ac497fbbf1a6f22
-SHA256: d4b6281271bd28030190727b3e5b62c25e7a2751fd8305a6ced446f443c611c1
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm_1153e1acc2989968d6bc73c9e2b317cf634446f7ad30e6a830faac89abde9300.deb
+Size: 4490638
+MD5sum: b518c066a116a44d9b5ce202dcde57eb
+SHA1: fa45f859154981b6e9bf6d5fe58c29afe13aac2b
+SHA256: 1153e1acc2989968d6bc73c9e2b317cf634446f7ad30e6a830faac89abde9300
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -238,16 +238,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.5+1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 16740
+Installed-Size: 16724
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm_1153e1acc2989968d6bc73c9e2b317cf634446f7ad30e6a830faac89abde9300.deb
-Size: 4490638
-MD5sum: b518c066a116a44d9b5ce202dcde57eb
-SHA1: fa45f859154981b6e9bf6d5fe58c29afe13aac2b
-SHA256: 1153e1acc2989968d6bc73c9e2b317cf634446f7ad30e6a830faac89abde9300
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm64_d4b6281271bd28030190727b3e5b62c25e7a2751fd8305a6ced446f443c611c1.deb
+Size: 4504864
+MD5sum: 4221f9fd8fb49015828822e3807b4536
+SHA1: 5592ae0dca0400047d817bed9ac497fbbf1a6f22
+SHA256: d4b6281271bd28030190727b3e5b62c25e7a2751fd8305a6ced446f443c611c1
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -255,16 +255,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 17384
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.6_iphoneos-arm64_020f93199793a70b4a318b93d1b9fda94083dfac8494dcc14b1249721e62bd7c.deb
-Size: 4671336
-MD5sum: 7b8fecf13c7a06c9aa3d6757499ee6d2
-SHA1: d9b83cd0679ce87116a9dad528760c320db1c0bb
-SHA256: 020f93199793a70b4a318b93d1b9fda94083dfac8494dcc14b1249721e62bd7c
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.6_iphoneos-arm_33236d397bad82e2de1b79f878cd444051001f1d491cee54bef49e8b65054975.deb
+Size: 4715086
+MD5sum: d8ff025ee220e49faa8bfaf72ce6f825
+SHA1: c81d14ccf0773404ed823119ff65047435cccc20
+SHA256: 33236d397bad82e2de1b79f878cd444051001f1d491cee54bef49e8b65054975
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -289,16 +289,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 17384
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.6_iphoneos-arm_33236d397bad82e2de1b79f878cd444051001f1d491cee54bef49e8b65054975.deb
-Size: 4715086
-MD5sum: d8ff025ee220e49faa8bfaf72ce6f825
-SHA1: c81d14ccf0773404ed823119ff65047435cccc20
-SHA256: 33236d397bad82e2de1b79f878cd444051001f1d491cee54bef49e8b65054975
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.6_iphoneos-arm64_020f93199793a70b4a318b93d1b9fda94083dfac8494dcc14b1249721e62bd7c.deb
+Size: 4671336
+MD5sum: 7b8fecf13c7a06c9aa3d6757499ee6d2
+SHA1: d9b83cd0679ce87116a9dad528760c320db1c0bb
+SHA256: 020f93199793a70b4a318b93d1b9fda94083dfac8494dcc14b1249721e62bd7c
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -306,16 +306,16 @@ Name: CopyVault(激活码版)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 11544
+Installed-Size: 11704
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.7_iphoneos-arm64_c6d244cef091a8ef99eba753099fd00bfd8b932dad3be29be74c30b07cafc6c1.deb
-Size: 3188786
-MD5sum: 7e22c26adb04486b12fbf535246109f7
-SHA1: 158a53ffb6b2ae29f4c6c4a7dd68a9aaa187f7fa
-SHA256: c6d244cef091a8ef99eba753099fd00bfd8b932dad3be29be74c30b07cafc6c1
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.7_iphoneos-arm_cc92d941a606f03fff4e810e59bec32e052b1dcc2bf21ccf8af2d1f643292c7a.deb
+Size: 3238394
+MD5sum: c3ff9c9053504e093ce3c68cf8363cb8
+SHA1: 8af2d795286cb834540b37d8bf1f94e83d3db5e6
+SHA256: cc92d941a606f03fff4e810e59bec32e052b1dcc2bf21ccf8af2d1f643292c7a
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -342,16 +342,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.7
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 11704
+Installed-Size: 11544
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.7_iphoneos-arm_cc92d941a606f03fff4e810e59bec32e052b1dcc2bf21ccf8af2d1f643292c7a.deb
-Size: 3238394
-MD5sum: c3ff9c9053504e093ce3c68cf8363cb8
-SHA1: 8af2d795286cb834540b37d8bf1f94e83d3db5e6
-SHA256: cc92d941a606f03fff4e810e59bec32e052b1dcc2bf21ccf8af2d1f643292c7a
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.7_iphoneos-arm64_c6d244cef091a8ef99eba753099fd00bfd8b932dad3be29be74c30b07cafc6c1.deb
+Size: 3188786
+MD5sum: 7e22c26adb04486b12fbf535246109f7
+SHA1: 158a53ffb6b2ae29f4c6c4a7dd68a9aaa187f7fa
+SHA256: c6d244cef091a8ef99eba753099fd00bfd8b932dad3be29be74c30b07cafc6c1
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -360,16 +360,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.8
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 11560
+Installed-Size: 11756
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.8_iphoneos-arm64_63dce19e9ac361dc510467a8ee188f3d0a520183b9903105c126b4b43f9bc14b.deb
-Size: 3195068
-MD5sum: e094ec186fd301f7ffdba1cdb566ef1d
-SHA1: 4d7cad7570cff69a36aeef87184df974057fcde3
-SHA256: 63dce19e9ac361dc510467a8ee188f3d0a520183b9903105c126b4b43f9bc14b
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.8_iphoneos-arm_7ea77d0f4c452348d58026ea07db4d87f65cad3ae21c06ca0b3f97bd15df13fa.deb
+Size: 3246008
+MD5sum: b5917528a2c1039eefa7d2d7b8546791
+SHA1: ca87c5c08dc8f652a32ff6e2a3ae45b371bb3357
+SHA256: 7ea77d0f4c452348d58026ea07db4d87f65cad3ae21c06ca0b3f97bd15df13fa
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -396,16 +396,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.8
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 11756
+Installed-Size: 11560
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.8_iphoneos-arm_7ea77d0f4c452348d58026ea07db4d87f65cad3ae21c06ca0b3f97bd15df13fa.deb
-Size: 3246008
-MD5sum: b5917528a2c1039eefa7d2d7b8546791
-SHA1: ca87c5c08dc8f652a32ff6e2a3ae45b371bb3357
-SHA256: 7ea77d0f4c452348d58026ea07db4d87f65cad3ae21c06ca0b3f97bd15df13fa
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.8_iphoneos-arm64_63dce19e9ac361dc510467a8ee188f3d0a520183b9903105c126b4b43f9bc14b.deb
+Size: 3195068
+MD5sum: e094ec186fd301f7ffdba1cdb566ef1d
+SHA1: 4d7cad7570cff69a36aeef87184df974057fcde3
+SHA256: 63dce19e9ac361dc510467a8ee188f3d0a520183b9903105c126b4b43f9bc14b
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -414,16 +414,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.8+1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 11656
+Installed-Size: 11752
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.8+1_iphoneos-arm64_4f195afe4975b52ed54cff36f9288f0556d05a64c2a9c2b3e1e2712da0890535.deb
-Size: 3230014
-MD5sum: 4c7f1650adf2571189708eb4420a4b7b
-SHA1: 5cfdfbdce9e048ce5bc642f673e60359b880bc30
-SHA256: 4f195afe4975b52ed54cff36f9288f0556d05a64c2a9c2b3e1e2712da0890535
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.8+1_iphoneos-arm_109bba27a294aad07b50d2b7b3e01961d3ae362e4ea7689a5155822fd4641efb.deb
+Size: 3249596
+MD5sum: ce8ad738a93e4fbb3e73694d4b1b7ad3
+SHA1: 84d48d72f60bae6016c497db92901f196114e5f1
+SHA256: 109bba27a294aad07b50d2b7b3e01961d3ae362e4ea7689a5155822fd4641efb
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -450,16 +450,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.8+1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 11752
+Installed-Size: 11656
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.8+1_iphoneos-arm_109bba27a294aad07b50d2b7b3e01961d3ae362e4ea7689a5155822fd4641efb.deb
-Size: 3249596
-MD5sum: ce8ad738a93e4fbb3e73694d4b1b7ad3
-SHA1: 84d48d72f60bae6016c497db92901f196114e5f1
-SHA256: 109bba27a294aad07b50d2b7b3e01961d3ae362e4ea7689a5155822fd4641efb
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.8+1_iphoneos-arm64_4f195afe4975b52ed54cff36f9288f0556d05a64c2a9c2b3e1e2712da0890535.deb
+Size: 3230014
+MD5sum: 4c7f1650adf2571189708eb4420a4b7b
+SHA1: 5cfdfbdce9e048ce5bc642f673e60359b880bc30
+SHA256: 4f195afe4975b52ed54cff36f9288f0556d05a64c2a9c2b3e1e2712da0890535
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -468,16 +468,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 11368
+Installed-Size: 11592
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.9_iphoneos-arm64_fcb49e62e840699c2d0e29b89496b70fd6e521bef08d9a007c83d9b152567ecf.deb
-Size: 3277090
-MD5sum: ebf92cfc2d89a48129c5c0eb6d590967
-SHA1: cc767469783139a835b3f01632960c9c3a71fbfe
-SHA256: fcb49e62e840699c2d0e29b89496b70fd6e521bef08d9a007c83d9b152567ecf
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.9_iphoneos-arm_a0d6c560acc01e46e5859a67ba7417fd39806b0fe868da7a71434b486636c10e.deb
+Size: 3337152
+MD5sum: 37c2f1c9f3a9a62327f7caccba7105e0
+SHA1: 17214b1aa21d578f580ea82805e9e2f6e99f5a18
+SHA256: a0d6c560acc01e46e5859a67ba7417fd39806b0fe868da7a71434b486636c10e
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -504,16 +504,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 11592
+Installed-Size: 11368
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.9_iphoneos-arm_a0d6c560acc01e46e5859a67ba7417fd39806b0fe868da7a71434b486636c10e.deb
-Size: 3337152
-MD5sum: 37c2f1c9f3a9a62327f7caccba7105e0
-SHA1: 17214b1aa21d578f580ea82805e9e2f6e99f5a18
-SHA256: a0d6c560acc01e46e5859a67ba7417fd39806b0fe868da7a71434b486636c10e
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.9_iphoneos-arm64_fcb49e62e840699c2d0e29b89496b70fd6e521bef08d9a007c83d9b152567ecf.deb
+Size: 3277090
+MD5sum: ebf92cfc2d89a48129c5c0eb6d590967
+SHA1: cc767469783139a835b3f01632960c9c3a71fbfe
+SHA256: fcb49e62e840699c2d0e29b89496b70fd6e521bef08d9a007c83d9b152567ecf
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -522,16 +522,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.9+1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5576
+Installed-Size: 5624
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.9+1_iphoneos-arm64_ba001130d8e39ba74becac4ce36e47f15ac6e843f74c5d4dd662545843ef9c35.deb
-Size: 1607648
-MD5sum: f7ef07c8d4c25722b5cec70f7b1919ae
-SHA1: 2072bb0a0169aad490a7623cd65bc19e5de0bf01
-SHA256: ba001130d8e39ba74becac4ce36e47f15ac6e843f74c5d4dd662545843ef9c35
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.9+1_iphoneos-arm_72074a3fc6ebad355c2c0ca9d4b4b06fc3a29d8ff7cc18ac819009ac30edf146.deb
+Size: 1600734
+MD5sum: 6083a1a374a7228f5364a55f6dd87b36
+SHA1: c25f67dabd4e6b5b0669290b791c0fce9bc652c8
+SHA256: 72074a3fc6ebad355c2c0ca9d4b4b06fc3a29d8ff7cc18ac819009ac30edf146
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -558,16 +558,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.3.9+1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5624
+Installed-Size: 5576
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.3.9+1_iphoneos-arm_72074a3fc6ebad355c2c0ca9d4b4b06fc3a29d8ff7cc18ac819009ac30edf146.deb
-Size: 1600734
-MD5sum: 6083a1a374a7228f5364a55f6dd87b36
-SHA1: c25f67dabd4e6b5b0669290b791c0fce9bc652c8
-SHA256: 72074a3fc6ebad355c2c0ca9d4b4b06fc3a29d8ff7cc18ac819009ac30edf146
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.3.9+1_iphoneos-arm64_ba001130d8e39ba74becac4ce36e47f15ac6e843f74c5d4dd662545843ef9c35.deb
+Size: 1607648
+MD5sum: f7ef07c8d4c25722b5cec70f7b1919ae
+SHA1: 2072bb0a0169aad490a7623cd65bc19e5de0bf01
+SHA256: ba001130d8e39ba74becac4ce36e47f15ac6e843f74c5d4dd662545843ef9c35
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -576,16 +576,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 4820
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.0_iphoneos-arm64_f5fd02a8b295de4fbd7b06988b5fee4ab122959ff91248180390cd039831562c.deb
-Size: 1510148
-MD5sum: 4e3ad85e98a594815dfbb98afd011af8
-SHA1: 15d34ad6ab08b3663bb0af6039bce2cd62d05b50
-SHA256: f5fd02a8b295de4fbd7b06988b5fee4ab122959ff91248180390cd039831562c
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.0_iphoneos-arm_179767170f8227653928c55fd306d4ffe0c628554f338b64c53193a1a9ee9e05.deb
+Size: 1525748
+MD5sum: 41b401e4c4b6a13d30c8f3b17520812c
+SHA1: 3f0e1e818b505dc3ecb5448066267f5c1dffd129
+SHA256: 179767170f8227653928c55fd306d4ffe0c628554f338b64c53193a1a9ee9e05
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -612,16 +612,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 4820
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.0_iphoneos-arm_179767170f8227653928c55fd306d4ffe0c628554f338b64c53193a1a9ee9e05.deb
-Size: 1525748
-MD5sum: 41b401e4c4b6a13d30c8f3b17520812c
-SHA1: 3f0e1e818b505dc3ecb5448066267f5c1dffd129
-SHA256: 179767170f8227653928c55fd306d4ffe0c628554f338b64c53193a1a9ee9e05
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.0_iphoneos-arm64_f5fd02a8b295de4fbd7b06988b5fee4ab122959ff91248180390cd039831562c.deb
+Size: 1510148
+MD5sum: 4e3ad85e98a594815dfbb98afd011af8
+SHA1: 15d34ad6ab08b3663bb0af6039bce2cd62d05b50
+SHA256: f5fd02a8b295de4fbd7b06988b5fee4ab122959ff91248180390cd039831562c
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -630,16 +630,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 4980
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.1_iphoneos-arm64_8f170a531f1413124b46e0ec2fbbd900f7b3280e69b2d06e6b1635cd8e7124ee.deb
-Size: 1576980
-MD5sum: 9460c42cfe47bdfee61a7d9200ee508d
-SHA1: 6ff131ed8b863f9c89e7e13b2c008fc1f1410f12
-SHA256: 8f170a531f1413124b46e0ec2fbbd900f7b3280e69b2d06e6b1635cd8e7124ee
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.1_iphoneos-arm_801f14463ce8dc27a237c9467e476bbcb873bc382c40a480b63902035bc717f2.deb
+Size: 1584618
+MD5sum: f7ad2c6561c8ed936f0f493bf5cbe1e8
+SHA1: 2879d847cadf509a1fed7291dc632050a3dd2652
+SHA256: 801f14463ce8dc27a237c9467e476bbcb873bc382c40a480b63902035bc717f2
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -666,16 +666,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 4980
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.1_iphoneos-arm_801f14463ce8dc27a237c9467e476bbcb873bc382c40a480b63902035bc717f2.deb
-Size: 1584618
-MD5sum: f7ad2c6561c8ed936f0f493bf5cbe1e8
-SHA1: 2879d847cadf509a1fed7291dc632050a3dd2652
-SHA256: 801f14463ce8dc27a237c9467e476bbcb873bc382c40a480b63902035bc717f2
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.1_iphoneos-arm64_8f170a531f1413124b46e0ec2fbbd900f7b3280e69b2d06e6b1635cd8e7124ee.deb
+Size: 1576980
+MD5sum: 9460c42cfe47bdfee61a7d9200ee508d
+SHA1: 6ff131ed8b863f9c89e7e13b2c008fc1f1410f12
+SHA256: 8f170a531f1413124b46e0ec2fbbd900f7b3280e69b2d06e6b1635cd8e7124ee
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -684,16 +684,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5124
+Installed-Size: 5140
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.2_iphoneos-arm64_b6edd5836b69692537f72ddac72ea03eb36873a9808d06bde7f279e54d14a20d.deb
-Size: 1632984
-MD5sum: 9440ffb35f9fa743be9ef88992f62206
-SHA1: 52c3c9a2108b9496c215eef3d3d0898d99d5a322
-SHA256: b6edd5836b69692537f72ddac72ea03eb36873a9808d06bde7f279e54d14a20d
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.2_iphoneos-arm_afd6a7529606907f7131c2b87ca782772e058a31f0afaeaf04a58f9fcd0f5808.deb
+Size: 1635644
+MD5sum: 824205afd108d8885ca56c1dd1c9204f
+SHA1: 5612c29692cb364e5d9d5da0eda31895fe6f28a9
+SHA256: afd6a7529606907f7131c2b87ca782772e058a31f0afaeaf04a58f9fcd0f5808
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -720,16 +720,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5140
+Installed-Size: 5124
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.2_iphoneos-arm_afd6a7529606907f7131c2b87ca782772e058a31f0afaeaf04a58f9fcd0f5808.deb
-Size: 1635644
-MD5sum: 824205afd108d8885ca56c1dd1c9204f
-SHA1: 5612c29692cb364e5d9d5da0eda31895fe6f28a9
-SHA256: afd6a7529606907f7131c2b87ca782772e058a31f0afaeaf04a58f9fcd0f5808
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.2_iphoneos-arm64_b6edd5836b69692537f72ddac72ea03eb36873a9808d06bde7f279e54d14a20d.deb
+Size: 1632984
+MD5sum: 9440ffb35f9fa743be9ef88992f62206
+SHA1: 52c3c9a2108b9496c215eef3d3d0898d99d5a322
+SHA256: b6edd5836b69692537f72ddac72ea03eb36873a9808d06bde7f279e54d14a20d
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -738,16 +738,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5304
+Installed-Size: 5320
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.6_iphoneos-arm64_73f9141c52e829705dd7ffdafd3f50fba7521f3d3816d8cd517697c95eca4085.deb
-Size: 1688488
-MD5sum: a80eec5b2180db57b2eec93451d9854e
-SHA1: f7164f5bfa5106ea8e68eda25cefdfd53e9a8663
-SHA256: 73f9141c52e829705dd7ffdafd3f50fba7521f3d3816d8cd517697c95eca4085
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.6_iphoneos-arm_aa5c6c39cc5db98a1c80c398a4433fcb3fe2039ef382744536284f99545a87f4.deb
+Size: 1695740
+MD5sum: a731e820b922767c82bef29a7a7535a2
+SHA1: dcd5c018026223eb6eff1f1a2e9bac58d5d5d605
+SHA256: aa5c6c39cc5db98a1c80c398a4433fcb3fe2039ef382744536284f99545a87f4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -774,16 +774,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.4.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5320
+Installed-Size: 5304
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.4.6_iphoneos-arm_aa5c6c39cc5db98a1c80c398a4433fcb3fe2039ef382744536284f99545a87f4.deb
-Size: 1695740
-MD5sum: a731e820b922767c82bef29a7a7535a2
-SHA1: dcd5c018026223eb6eff1f1a2e9bac58d5d5d605
-SHA256: aa5c6c39cc5db98a1c80c398a4433fcb3fe2039ef382744536284f99545a87f4
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.4.6_iphoneos-arm64_73f9141c52e829705dd7ffdafd3f50fba7521f3d3816d8cd517697c95eca4085.deb
+Size: 1688488
+MD5sum: a80eec5b2180db57b2eec93451d9854e
+SHA1: f7164f5bfa5106ea8e68eda25cefdfd53e9a8663
+SHA256: 73f9141c52e829705dd7ffdafd3f50fba7521f3d3816d8cd517697c95eca4085
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -792,16 +792,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7168
+Installed-Size: 7184
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.5_iphoneos-arm64_3beca0b6a837b0efc47d7202b2ea4f1122e63b319bf3291c4b39b511697b6694.deb
-Size: 2248914
-MD5sum: a53c12dec094aadd6d9371328008163c
-SHA1: bd66eeae3ead95dbc01664328623c3bfef785abf
-SHA256: 3beca0b6a837b0efc47d7202b2ea4f1122e63b319bf3291c4b39b511697b6694
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.5_iphoneos-arm_ea5666b69fab5ade4115183431a5b47f24689592121a1c3f550dbc031b986a5b.deb
+Size: 2268310
+MD5sum: d1f3e971e44aaa8dbfa999c7b3f5e657
+SHA1: 625055bf7fa92e182e87a79b6265beace9f7b94d
+SHA256: ea5666b69fab5ade4115183431a5b47f24689592121a1c3f550dbc031b986a5b
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -828,16 +828,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7184
+Installed-Size: 7168
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.5_iphoneos-arm_ea5666b69fab5ade4115183431a5b47f24689592121a1c3f550dbc031b986a5b.deb
-Size: 2268310
-MD5sum: d1f3e971e44aaa8dbfa999c7b3f5e657
-SHA1: 625055bf7fa92e182e87a79b6265beace9f7b94d
-SHA256: ea5666b69fab5ade4115183431a5b47f24689592121a1c3f550dbc031b986a5b
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.5_iphoneos-arm64_3beca0b6a837b0efc47d7202b2ea4f1122e63b319bf3291c4b39b511697b6694.deb
+Size: 2248914
+MD5sum: a53c12dec094aadd6d9371328008163c
+SHA1: bd66eeae3ead95dbc01664328623c3bfef785abf
+SHA256: 3beca0b6a837b0efc47d7202b2ea4f1122e63b319bf3291c4b39b511697b6694
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -846,16 +846,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7276
+Installed-Size: 7308
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.6_iphoneos-arm64_3bdb2f0b0b537ad170c8fb82c283810f99fc9e1ba3be7579c6360cdf854bd7f9.deb
-Size: 2276070
-MD5sum: 8bd034d30fd4cbd4719ba4358338646f
-SHA1: 5665bfa9962febfcc9d71f2135c41fa3fdd2009e
-SHA256: 3bdb2f0b0b537ad170c8fb82c283810f99fc9e1ba3be7579c6360cdf854bd7f9
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.6_iphoneos-arm_ec5ee3a03f10f9261be0d37677e715c8f6014cc9448b8803585044ac12a30538.deb
+Size: 2291340
+MD5sum: 6f32f3fa52c19b8185eefd3b04b91685
+SHA1: 75721c714c74cc8c45463d8b9b733e834485eaee
+SHA256: ec5ee3a03f10f9261be0d37677e715c8f6014cc9448b8803585044ac12a30538
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -882,16 +882,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7308
+Installed-Size: 7276
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.6_iphoneos-arm_ec5ee3a03f10f9261be0d37677e715c8f6014cc9448b8803585044ac12a30538.deb
-Size: 2291340
-MD5sum: 6f32f3fa52c19b8185eefd3b04b91685
-SHA1: 75721c714c74cc8c45463d8b9b733e834485eaee
-SHA256: ec5ee3a03f10f9261be0d37677e715c8f6014cc9448b8803585044ac12a30538
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.6_iphoneos-arm64_3bdb2f0b0b537ad170c8fb82c283810f99fc9e1ba3be7579c6360cdf854bd7f9.deb
+Size: 2276070
+MD5sum: 8bd034d30fd4cbd4719ba4358338646f
+SHA1: 5665bfa9962febfcc9d71f2135c41fa3fdd2009e
+SHA256: 3bdb2f0b0b537ad170c8fb82c283810f99fc9e1ba3be7579c6360cdf854bd7f9
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -900,16 +900,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.8
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6616
+Installed-Size: 6712
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.8_iphoneos-arm64_9a1985e98d41fc643b84f4830f4baadc36e8ebed614414e15e24994df2e1c1a2.deb
-Size: 2080800
-MD5sum: e4ffbaf8c708d275e1e192352b6ff10f
-SHA1: e0b0a0af537de83576fcdc50f4540509924bf188
-SHA256: 9a1985e98d41fc643b84f4830f4baadc36e8ebed614414e15e24994df2e1c1a2
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.8_iphoneos-arm_c36acaeac6624b4d21d2ba441b867bfc01c9e18a6a1a9bfe7142f2bd6d9d55b7.deb
+Size: 2098556
+MD5sum: 88149e606601d12a8ab46a2d363f9414
+SHA1: 89f85a51af85c13dd90e2fd41545f066598c9ad6
+SHA256: c36acaeac6624b4d21d2ba441b867bfc01c9e18a6a1a9bfe7142f2bd6d9d55b7
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -936,52 +936,52 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.8
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 6616
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.8_iphoneos-arm64_9a1985e98d41fc643b84f4830f4baadc36e8ebed614414e15e24994df2e1c1a2.deb
+Size: 2080800
+MD5sum: e4ffbaf8c708d275e1e192352b6ff10f
+SHA1: e0b0a0af537de83576fcdc50f4540509924bf188
+SHA256: 9a1985e98d41fc643b84f4830f4baadc36e8ebed614414e15e24994df2e1c1a2
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.5.9
 Architecture: iphoneos-arm
-Maintainer: SquidForce, Backup
-Installed-Size: 6712
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.8_iphoneos-arm_c36acaeac6624b4d21d2ba441b867bfc01c9e18a6a1a9bfe7142f2bd6d9d55b7.deb
-Size: 2098556
-MD5sum: 88149e606601d12a8ab46a2d363f9414
-SHA1: 89f85a51af85c13dd90e2fd41545f066598c9ad6
-SHA256: c36acaeac6624b4d21d2ba441b867bfc01c9e18a6a1a9bfe7142f2bd6d9d55b7
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
-Author: SquidForce, Backup
-Name: CopyVault(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
-
-Package: cn.octoforce.copyvault
-Version: 1.5.9
-Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 6648
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.9_iphoneos-arm64_8a73fb2b4b27b1f1e4b7d63321812f5ebf090f67f7ba48f83f57fb2e0483bcdc.deb
-Size: 2076356
-MD5sum: 7bbaf7d16d25a5dbdc8477c52bdf3092
-SHA1: d7aefaea71d84a9deb9fe460f726bd682f297d44
-SHA256: 8a73fb2b4b27b1f1e4b7d63321812f5ebf090f67f7ba48f83f57fb2e0483bcdc
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
-Author: SquidForce, Backup
-Name: CopyVault(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
-
-Package: cn.octoforce.copyvault
-Version: 1.5.9
-Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 6664
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.9_iphoneos-arm64_754ac6177dccba72f2a1678b72d33d79102000e14111b6ebb8eb39319c8498e8.deb
-Size: 2081890
-MD5sum: cd225be98c50653ce0dc3e86a74b9348
-SHA1: 0dd69d53f5e980afeb9364ae5a08e24a991037a1
-SHA256: 754ac6177dccba72f2a1678b72d33d79102000e14111b6ebb8eb39319c8498e8
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.9_iphoneos-arm_f30f495e3671bccc67544e01d0e0a04eb4bee3657ca8ee23223f29d7b6ef55c1.deb
+Size: 2097430
+MD5sum: 10ad23990dda0e6f4843e76482075598
+SHA1: c81a955f31a9f0160977fe92448ecac13f57608c
+SHA256: f30f495e3671bccc67544e01d0e0a04eb4bee3657ca8ee23223f29d7b6ef55c1
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.5.9
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 6664
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.9_iphoneos-arm_0238702e02dbdfec9975ec8923431acd5003075d618cd7efc20a58dfc2b61c07.deb
+Size: 2086784
+MD5sum: eced7e6faeaa8e85a974744efd7f730d
+SHA1: 10ef4aec9884f2ceb053c85d3ecf1841cf7ba82b
+SHA256: 0238702e02dbdfec9975ec8923431acd5003075d618cd7efc20a58dfc2b61c07
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1026,16 +1026,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 6664
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.9_iphoneos-arm_f30f495e3671bccc67544e01d0e0a04eb4bee3657ca8ee23223f29d7b6ef55c1.deb
-Size: 2097430
-MD5sum: 10ad23990dda0e6f4843e76482075598
-SHA1: c81a955f31a9f0160977fe92448ecac13f57608c
-SHA256: f30f495e3671bccc67544e01d0e0a04eb4bee3657ca8ee23223f29d7b6ef55c1
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.9_iphoneos-arm64_754ac6177dccba72f2a1678b72d33d79102000e14111b6ebb8eb39319c8498e8.deb
+Size: 2081890
+MD5sum: cd225be98c50653ce0dc3e86a74b9348
+SHA1: 0dd69d53f5e980afeb9364ae5a08e24a991037a1
+SHA256: 754ac6177dccba72f2a1678b72d33d79102000e14111b6ebb8eb39319c8498e8
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1044,16 +1044,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.5.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6664
+Installed-Size: 6648
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.5.9_iphoneos-arm_0238702e02dbdfec9975ec8923431acd5003075d618cd7efc20a58dfc2b61c07.deb
-Size: 2086784
-MD5sum: eced7e6faeaa8e85a974744efd7f730d
-SHA1: 10ef4aec9884f2ceb053c85d3ecf1841cf7ba82b
-SHA256: 0238702e02dbdfec9975ec8923431acd5003075d618cd7efc20a58dfc2b61c07
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.5.9_iphoneos-arm64_8a73fb2b4b27b1f1e4b7d63321812f5ebf090f67f7ba48f83f57fb2e0483bcdc.deb
+Size: 2076356
+MD5sum: 7bbaf7d16d25a5dbdc8477c52bdf3092
+SHA1: d7aefaea71d84a9deb9fe460f726bd682f297d44
+SHA256: 8a73fb2b4b27b1f1e4b7d63321812f5ebf090f67f7ba48f83f57fb2e0483bcdc
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1062,16 +1062,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.7.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5344
+Installed-Size: 5348
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.0_iphoneos-arm64_90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1.deb
-Size: 1678442
-MD5sum: d9914532c573beba7f1991774d0aebc3
-SHA1: 930fa89eb200fb8164d2242eb285d6f753888d4a
-SHA256: 90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.7.0_iphoneos-arm_4646500f5804999619b873dfb25b6b1ec9d4740b251b9c9ff5f3b67bbb7088a4.deb
+Size: 1676952
+MD5sum: 7287ac448fda0dfd828cff3468deea51
+SHA1: b2c5a1842313a153a8fcc1eba8a04fc4770faf91
+SHA256: 4646500f5804999619b873dfb25b6b1ec9d4740b251b9c9ff5f3b67bbb7088a4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1098,16 +1098,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.7.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5348
+Installed-Size: 5344
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.7.0_iphoneos-arm_4646500f5804999619b873dfb25b6b1ec9d4740b251b9c9ff5f3b67bbb7088a4.deb
-Size: 1676952
-MD5sum: 7287ac448fda0dfd828cff3468deea51
-SHA1: b2c5a1842313a153a8fcc1eba8a04fc4770faf91
-SHA256: 4646500f5804999619b873dfb25b6b1ec9d4740b251b9c9ff5f3b67bbb7088a4
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.0_iphoneos-arm64_90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1.deb
+Size: 1678442
+MD5sum: d9914532c573beba7f1991774d0aebc3
+SHA1: 930fa89eb200fb8164d2242eb285d6f753888d4a
+SHA256: 90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1116,16 +1116,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.7.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 5344
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.5_iphoneos-arm64_f809cd57e77c13d1b1f1f8dc059110f03fc28dcd45019a447ccda32f3774d4b6.deb
-Size: 1674238
-MD5sum: deea9973c61f28205c0bb11c945c1a79
-SHA1: d80fd463b9b4ca07c0c1254de4c636ee72969a2c
-SHA256: f809cd57e77c13d1b1f1f8dc059110f03fc28dcd45019a447ccda32f3774d4b6
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.7.5_iphoneos-arm_5e0ac0164dbeac2168aad91ee99235824b824af58fc03db2a6324d23e7fbc082.deb
+Size: 1682448
+MD5sum: f72c5d3d4d1cf63caa6a6d46224ea920
+SHA1: 084688e7ab2f27fcc7eb43fdac999d4f4fa8f45a
+SHA256: 5e0ac0164dbeac2168aad91ee99235824b824af58fc03db2a6324d23e7fbc082
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1152,16 +1152,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.7.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 5344
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.7.5_iphoneos-arm_5e0ac0164dbeac2168aad91ee99235824b824af58fc03db2a6324d23e7fbc082.deb
-Size: 1682448
-MD5sum: f72c5d3d4d1cf63caa6a6d46224ea920
-SHA1: 084688e7ab2f27fcc7eb43fdac999d4f4fa8f45a
-SHA256: 5e0ac0164dbeac2168aad91ee99235824b824af58fc03db2a6324d23e7fbc082
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.5_iphoneos-arm64_f809cd57e77c13d1b1f1f8dc059110f03fc28dcd45019a447ccda32f3774d4b6.deb
+Size: 1674238
+MD5sum: deea9973c61f28205c0bb11c945c1a79
+SHA1: d80fd463b9b4ca07c0c1254de4c636ee72969a2c
+SHA256: f809cd57e77c13d1b1f1f8dc059110f03fc28dcd45019a447ccda32f3774d4b6
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1170,16 +1170,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.7.9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5360
+Installed-Size: 5412
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.9_iphoneos-arm64_39b80e2988426cd454f3099ced67ac992801810ae23804e4f13f7145e09416db.deb
-Size: 1684752
-MD5sum: 125164171402e4c06578afa2a7aa59ba
-SHA1: c9b96e00ca6311314cb9a1b005187180382811b3
-SHA256: 39b80e2988426cd454f3099ced67ac992801810ae23804e4f13f7145e09416db
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.7.9_iphoneos-arm_f4228ef1ca8ecda446c7706088aefd6ba1236c6ad51ef6d2e138d39ff8e856c7.deb
+Size: 1703114
+MD5sum: 669c41dd1a99560d35f9b0b4fd318a31
+SHA1: cd14c81442c165dac7a8ed9e5caa689733c86d07
+SHA256: f4228ef1ca8ecda446c7706088aefd6ba1236c6ad51ef6d2e138d39ff8e856c7
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1206,16 +1206,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.7.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5412
+Installed-Size: 5360
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.7.9_iphoneos-arm_f4228ef1ca8ecda446c7706088aefd6ba1236c6ad51ef6d2e138d39ff8e856c7.deb
-Size: 1703114
-MD5sum: 669c41dd1a99560d35f9b0b4fd318a31
-SHA1: cd14c81442c165dac7a8ed9e5caa689733c86d07
-SHA256: f4228ef1ca8ecda446c7706088aefd6ba1236c6ad51ef6d2e138d39ff8e856c7
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.9_iphoneos-arm64_39b80e2988426cd454f3099ced67ac992801810ae23804e4f13f7145e09416db.deb
+Size: 1684752
+MD5sum: 125164171402e4c06578afa2a7aa59ba
+SHA1: c9b96e00ca6311314cb9a1b005187180382811b3
+SHA256: 39b80e2988426cd454f3099ced67ac992801810ae23804e4f13f7145e09416db
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1224,16 +1224,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5428
+Installed-Size: 5396
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.0_iphoneos-arm64_5dd89664d3c02fb90b0092aaa4cef779144dc489e9b84b72be79a40678de97b1.deb
-Size: 1705164
-MD5sum: 4f6f83afa7f1149829b139d31ca66882
-SHA1: c9f4e9d55fc2312100a8576e7d06bac3eb8ba2de
-SHA256: 5dd89664d3c02fb90b0092aaa4cef779144dc489e9b84b72be79a40678de97b1
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.0_iphoneos-arm_318928b242982be5cc260a96d07bc4c0786562c166b96b130cb36dd2f7a20258.deb
+Size: 1706010
+MD5sum: ba781929bc867f78c0140f30942ef3d3
+SHA1: 2f9a146fae41aeaddadc7aba6c44dba03761fff5
+SHA256: 318928b242982be5cc260a96d07bc4c0786562c166b96b130cb36dd2f7a20258
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1260,16 +1260,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5396
+Installed-Size: 5428
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.0_iphoneos-arm_318928b242982be5cc260a96d07bc4c0786562c166b96b130cb36dd2f7a20258.deb
-Size: 1706010
-MD5sum: ba781929bc867f78c0140f30942ef3d3
-SHA1: 2f9a146fae41aeaddadc7aba6c44dba03761fff5
-SHA256: 318928b242982be5cc260a96d07bc4c0786562c166b96b130cb36dd2f7a20258
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.0_iphoneos-arm64_5dd89664d3c02fb90b0092aaa4cef779144dc489e9b84b72be79a40678de97b1.deb
+Size: 1705164
+MD5sum: 4f6f83afa7f1149829b139d31ca66882
+SHA1: c9f4e9d55fc2312100a8576e7d06bac3eb8ba2de
+SHA256: 5dd89664d3c02fb90b0092aaa4cef779144dc489e9b84b72be79a40678de97b1
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1278,16 +1278,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5376
+Installed-Size: 5460
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.1_iphoneos-arm64_f84d83c1b80f72c75320da804cd7a2a3fc5530c13506b11a8f9258c9a8656b32.deb
-Size: 1691252
-MD5sum: c43a5a93b78451e2625fabc85270eeef
-SHA1: 4ae08a0dbe2370dcd2b3d00a6a21b7cdb67ca183
-SHA256: f84d83c1b80f72c75320da804cd7a2a3fc5530c13506b11a8f9258c9a8656b32
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.1_iphoneos-arm_00acdca6e8007c8b1733932651406127dd5b0aec638858be48d5a39491978911.deb
+Size: 1715074
+MD5sum: 138c52017872d2cbae69ff24268d3064
+SHA1: 6ddeffaebd0a55c4de8f43dbce0b0cdbf6a04290
+SHA256: 00acdca6e8007c8b1733932651406127dd5b0aec638858be48d5a39491978911
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1314,16 +1314,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5460
+Installed-Size: 5376
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.1_iphoneos-arm_00acdca6e8007c8b1733932651406127dd5b0aec638858be48d5a39491978911.deb
-Size: 1715074
-MD5sum: 138c52017872d2cbae69ff24268d3064
-SHA1: 6ddeffaebd0a55c4de8f43dbce0b0cdbf6a04290
-SHA256: 00acdca6e8007c8b1733932651406127dd5b0aec638858be48d5a39491978911
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.1_iphoneos-arm64_f84d83c1b80f72c75320da804cd7a2a3fc5530c13506b11a8f9258c9a8656b32.deb
+Size: 1691252
+MD5sum: c43a5a93b78451e2625fabc85270eeef
+SHA1: 4ae08a0dbe2370dcd2b3d00a6a21b7cdb67ca183
+SHA256: f84d83c1b80f72c75320da804cd7a2a3fc5530c13506b11a8f9258c9a8656b32
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1332,16 +1332,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5508
+Installed-Size: 5400
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.2_iphoneos-arm64_317c10fdbb2749be465a251f8c3f230b64e64274a16d070366260e5f01598f41.deb
-Size: 1725192
-MD5sum: 7616a24e81f8aec37114a606865f2f76
-SHA1: dbebff8a949e04c5bbb922e4b6c6e47d176e268b
-SHA256: 317c10fdbb2749be465a251f8c3f230b64e64274a16d070366260e5f01598f41
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.2_iphoneos-arm_724fd546908b3c94fc9a83477be8756ee999ec21146d3acc7b2f82f58514a7a1.deb
+Size: 1695708
+MD5sum: b8dd99f5c7f78419e865ca3f27d3b61b
+SHA1: 2ce337cb2e8cb42e2d48617156b98755cf2ec00f
+SHA256: 724fd546908b3c94fc9a83477be8756ee999ec21146d3acc7b2f82f58514a7a1
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1368,70 +1368,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.2
-Architecture: iphoneos-arm
-Maintainer: SquidForce, Backup
-Installed-Size: 5400
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.2_iphoneos-arm_724fd546908b3c94fc9a83477be8756ee999ec21146d3acc7b2f82f58514a7a1.deb
-Size: 1695708
-MD5sum: b8dd99f5c7f78419e865ca3f27d3b61b
-SHA1: 2ce337cb2e8cb42e2d48617156b98755cf2ec00f
-SHA256: 724fd546908b3c94fc9a83477be8756ee999ec21146d3acc7b2f82f58514a7a1
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
-Author: SquidForce, Backup
-Name: CopyVault(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
-
-Package: cn.octoforce.copyvault
-Version: 1.8.5
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6188
+Installed-Size: 5508
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.5_iphoneos-arm64_2c7fc3b12b072ba3bee2348014f2b04273b97f7f36fa068d8698bcf1f6af93c0.deb
-Size: 1669584
-MD5sum: 5c00d781ac65ad28444e3463fb63aae2
-SHA1: 30af7132aab386b5fff7cb1af16e54b34b5899e4
-SHA256: 2c7fc3b12b072ba3bee2348014f2b04273b97f7f36fa068d8698bcf1f6af93c0
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
-Author: SquidForce, Backup
-Name: CopyVault(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
-
-Package: cn.octoforce.copyvault
-Version: 1.8.5
-Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 6188
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.5_iphoneos-arm64_713616da0ead68ee29d4bf6384ee2d0b357fc2a35a39ffa100be3ae54210460e.deb
-Size: 1660478
-MD5sum: 974ae2db9cac4128c32b73bebdb9d53b
-SHA1: a9ebe5534dee58b965b973680ebaf5e7dc7dd24a
-SHA256: 713616da0ead68ee29d4bf6384ee2d0b357fc2a35a39ffa100be3ae54210460e
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
-Author: SquidForce, Backup
-Name: CopyVault(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
-
-Package: cn.octoforce.copyvault
-Version: 1.8.5
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce, Backup
-Installed-Size: 6124
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64e/cn.octoforce.copyvault_1.8.5_iphoneos-arm64e_59d215aedd4aef663bfd08fd42b89204e9d3437a51fa6743bfeb7c6dda7cd611.deb
-Size: 1654038
-MD5sum: 49a4188a7bb595b7927c4ed9672bf12d
-SHA1: 95b622340e493cc7530e89f6c744349333254dee
-SHA256: 59d215aedd4aef663bfd08fd42b89204e9d3437a51fa6743bfeb7c6dda7cd611
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.2_iphoneos-arm64_317c10fdbb2749be465a251f8c3f230b64e64274a16d070366260e5f01598f41.deb
+Size: 1725192
+MD5sum: 7616a24e81f8aec37114a606865f2f76
+SHA1: dbebff8a949e04c5bbb922e4b6c6e47d176e268b
+SHA256: 317c10fdbb2749be465a251f8c3f230b64e64274a16d070366260e5f01598f41
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1475,17 +1421,71 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: cn.octoforce.copyvault
-Version: 1.8.6
+Version: 1.8.5
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 6124
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm64e/cn.octoforce.copyvault_1.8.5_iphoneos-arm64e_59d215aedd4aef663bfd08fd42b89204e9d3437a51fa6743bfeb7c6dda7cd611.deb
+Size: 1654038
+MD5sum: 49a4188a7bb595b7927c4ed9672bf12d
+SHA1: 95b622340e493cc7530e89f6c744349333254dee
+SHA256: 59d215aedd4aef663bfd08fd42b89204e9d3437a51fa6743bfeb7c6dda7cd611
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.8.5
 Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 6188
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.5_iphoneos-arm64_2c7fc3b12b072ba3bee2348014f2b04273b97f7f36fa068d8698bcf1f6af93c0.deb
+Size: 1669584
+MD5sum: 5c00d781ac65ad28444e3463fb63aae2
+SHA1: 30af7132aab386b5fff7cb1af16e54b34b5899e4
+SHA256: 2c7fc3b12b072ba3bee2348014f2b04273b97f7f36fa068d8698bcf1f6af93c0
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 6188
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.5_iphoneos-arm64_713616da0ead68ee29d4bf6384ee2d0b357fc2a35a39ffa100be3ae54210460e.deb
+Size: 1660478
+MD5sum: 974ae2db9cac4128c32b73bebdb9d53b
+SHA1: a9ebe5534dee58b965b973680ebaf5e7dc7dd24a
+SHA256: 713616da0ead68ee29d4bf6384ee2d0b357fc2a35a39ffa100be3ae54210460e
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.8.6
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 6220
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.6_iphoneos-arm64_2d49ca5468fdc986ee95f06aad57e79ca6bae46875486d3a43e99de025d7debf.deb
-Size: 1667170
-MD5sum: d727ff2696b549792067990f1434eb5a
-SHA1: e5817e6d0803b9f2e5686a38e0157248f27d5eeb
-SHA256: 2d49ca5468fdc986ee95f06aad57e79ca6bae46875486d3a43e99de025d7debf
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.6_iphoneos-arm_a7a455cd186517a4abd351809ffb268e07adba2a1eb3b0073d4da90e9cf00524.deb
+Size: 1674454
+MD5sum: 8b3c749b4d6067f992f55b5fea15d0d2
+SHA1: 7119d16c2c3568729de6ab15912d1822e123fbdd
+SHA256: a7a455cd186517a4abd351809ffb268e07adba2a1eb3b0073d4da90e9cf00524
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1512,16 +1512,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 6220
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.6_iphoneos-arm_a7a455cd186517a4abd351809ffb268e07adba2a1eb3b0073d4da90e9cf00524.deb
-Size: 1674454
-MD5sum: 8b3c749b4d6067f992f55b5fea15d0d2
-SHA1: 7119d16c2c3568729de6ab15912d1822e123fbdd
-SHA256: a7a455cd186517a4abd351809ffb268e07adba2a1eb3b0073d4da90e9cf00524
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.6_iphoneos-arm64_2d49ca5468fdc986ee95f06aad57e79ca6bae46875486d3a43e99de025d7debf.deb
+Size: 1667170
+MD5sum: d727ff2696b549792067990f1434eb5a
+SHA1: e5817e6d0803b9f2e5686a38e0157248f27d5eeb
+SHA256: 2d49ca5468fdc986ee95f06aad57e79ca6bae46875486d3a43e99de025d7debf
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1530,16 +1530,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.6-1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 6204
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.6-1_iphoneos-arm64_23a8a4fb36f57eac06e754c9d2f77a9870425472bf1fbcc8f7164c1ec10136a4.deb
-Size: 1664124
-MD5sum: 15706356db7d644d44f4f0f025bd27d6
-SHA1: 7d8fdeec84c8710f942825b994c0c84d2f052888
-SHA256: 23a8a4fb36f57eac06e754c9d2f77a9870425472bf1fbcc8f7164c1ec10136a4
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.6-1_iphoneos-arm_c78e9a374267e60f212fea0da923a3953cc6f8778926bd6cfdeceb3e9fc3c993.deb
+Size: 1672896
+MD5sum: d0db4f97b157f9dec708a1ce36868fa0
+SHA1: d7699ca68675bb408c4f192e8c7f8f9a212383d4
+SHA256: c78e9a374267e60f212fea0da923a3953cc6f8778926bd6cfdeceb3e9fc3c993
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1566,16 +1566,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.6-1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 6204
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.6-1_iphoneos-arm_c78e9a374267e60f212fea0da923a3953cc6f8778926bd6cfdeceb3e9fc3c993.deb
-Size: 1672896
-MD5sum: d0db4f97b157f9dec708a1ce36868fa0
-SHA1: d7699ca68675bb408c4f192e8c7f8f9a212383d4
-SHA256: c78e9a374267e60f212fea0da923a3953cc6f8778926bd6cfdeceb3e9fc3c993
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.6-1_iphoneos-arm64_23a8a4fb36f57eac06e754c9d2f77a9870425472bf1fbcc8f7164c1ec10136a4.deb
+Size: 1664124
+MD5sum: 15706356db7d644d44f4f0f025bd27d6
+SHA1: 7d8fdeec84c8710f942825b994c0c84d2f052888
+SHA256: 23a8a4fb36f57eac06e754c9d2f77a9870425472bf1fbcc8f7164c1ec10136a4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1584,16 +1584,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6188
+Installed-Size: 6220
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.7_iphoneos-arm64_31b6ecd86c0b5c535ac6c3a32f8f010e289b750fd905ae3a24a60c66a182afda.deb
-Size: 1665166
-MD5sum: eb615f4d184486139ade81537e764219
-SHA1: 32a197300c6e2758a68583ea71751f3a1813c199
-SHA256: 31b6ecd86c0b5c535ac6c3a32f8f010e289b750fd905ae3a24a60c66a182afda
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.7_iphoneos-arm_c496362ff8f42c592859579071a8a97530343a7e2e503c97b74613543678b485.deb
+Size: 1669734
+MD5sum: c4ebe11905752e1bb57a24351559c32c
+SHA1: bdb430427f684e9e2d12719489ace17fd4223fea
+SHA256: c496362ff8f42c592859579071a8a97530343a7e2e503c97b74613543678b485
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1620,16 +1620,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.8.7
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6220
+Installed-Size: 6188
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.8.7_iphoneos-arm_c496362ff8f42c592859579071a8a97530343a7e2e503c97b74613543678b485.deb
-Size: 1669734
-MD5sum: c4ebe11905752e1bb57a24351559c32c
-SHA1: bdb430427f684e9e2d12719489ace17fd4223fea
-SHA256: c496362ff8f42c592859579071a8a97530343a7e2e503c97b74613543678b485
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.8.7_iphoneos-arm64_31b6ecd86c0b5c535ac6c3a32f8f010e289b750fd905ae3a24a60c66a182afda.deb
+Size: 1665166
+MD5sum: eb615f4d184486139ade81537e764219
+SHA1: 32a197300c6e2758a68583ea71751f3a1813c199
+SHA256: 31b6ecd86c0b5c535ac6c3a32f8f010e289b750fd905ae3a24a60c66a182afda
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1638,16 +1638,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.9.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6220
+Installed-Size: 6236
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.9.0_iphoneos-arm64_aa127301e4b9e9c5bf5d85c66ed49304b85a58509d1acdb8d1afa9d219ebbf70.deb
-Size: 1668360
-MD5sum: 53069810f64b0c8f9a9856280c8f3c4a
-SHA1: 44e79cd1bf49f0a5740d5dc59e4e01381838005c
-SHA256: aa127301e4b9e9c5bf5d85c66ed49304b85a58509d1acdb8d1afa9d219ebbf70
+Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.9.0_iphoneos-arm_82b877c324d96c7b684fa926705933ceac45bbc79a58ab6cc19aaaa48b8ccf85.deb
+Size: 1683254
+MD5sum: c369178f844cae33ccc9e14cad5dfdcd
+SHA1: 731fa6e8b1d9b59a7e550440abc0142eb9ef21b6
+SHA256: 82b877c324d96c7b684fa926705933ceac45bbc79a58ab6cc19aaaa48b8ccf85
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1674,16 +1674,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.copyvault
 Version: 1.9.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6236
+Installed-Size: 6220
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/iphoneos-arm/cn.octoforce.copyvault_1.9.0_iphoneos-arm_82b877c324d96c7b684fa926705933ceac45bbc79a58ab6cc19aaaa48b8ccf85.deb
-Size: 1683254
-MD5sum: c369178f844cae33ccc9e14cad5dfdcd
-SHA1: 731fa6e8b1d9b59a7e550440abc0142eb9ef21b6
-SHA256: 82b877c324d96c7b684fa926705933ceac45bbc79a58ab6cc19aaaa48b8ccf85
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.9.0_iphoneos-arm64_aa127301e4b9e9c5bf5d85c66ed49304b85a58509d1acdb8d1afa9d219ebbf70.deb
+Size: 1668360
+MD5sum: 53069810f64b0c8f9a9856280c8f3c4a
+SHA1: 44e79cd1bf49f0a5740d5dc59e4e01381838005c
+SHA256: aa127301e4b9e9c5bf5d85c66ed49304b85a58509d1acdb8d1afa9d219ebbf70
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
@@ -1692,16 +1692,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 
 Package: cn.octoforce.squidextender
 Version: 1.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5068
+Installed-Size: 5132
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.0.1_iphoneos-arm64_b2776df73ce502235dcc33ad0551dce8deb31a03c6286e4de84f37e7b37c8955.deb
-Size: 1212338
-MD5sum: d4b87e83679f60ff72b057eb552ab8ce
-SHA1: 4fe6e307f49ac5d86c23780dd114f0288c792000
-SHA256: b2776df73ce502235dcc33ad0551dce8deb31a03c6286e4de84f37e7b37c8955
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.0.1_iphoneos-arm_79b19cf57a1336897b249813ea6b0176a3dcf9bd6e7e2f39b9c7fa739d1d0abe.deb
+Size: 1218046
+MD5sum: 13598edbec4ec0a70a8179db83d117eb
+SHA1: 7842c36bdfa03189e1b8070705fe1d73a9a43d93
+SHA256: 79b19cf57a1336897b249813ea6b0176a3dcf9bd6e7e2f39b9c7fa739d1d0abe
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1728,16 +1728,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.0.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5132
+Installed-Size: 5068
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.0.1_iphoneos-arm_79b19cf57a1336897b249813ea6b0176a3dcf9bd6e7e2f39b9c7fa739d1d0abe.deb
-Size: 1218046
-MD5sum: 13598edbec4ec0a70a8179db83d117eb
-SHA1: 7842c36bdfa03189e1b8070705fe1d73a9a43d93
-SHA256: 79b19cf57a1336897b249813ea6b0176a3dcf9bd6e7e2f39b9c7fa739d1d0abe
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.0.1_iphoneos-arm64_b2776df73ce502235dcc33ad0551dce8deb31a03c6286e4de84f37e7b37c8955.deb
+Size: 1212338
+MD5sum: d4b87e83679f60ff72b057eb552ab8ce
+SHA1: 4fe6e307f49ac5d86c23780dd114f0288c792000
+SHA256: b2776df73ce502235dcc33ad0551dce8deb31a03c6286e4de84f37e7b37c8955
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1746,16 +1746,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.0.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 5068
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.0.3_iphoneos-arm64_f0611c008dffbf53fe1f29837dcc7391fed6cf44030a2c8db27b170570e52629.deb
-Size: 1222806
-MD5sum: f011888469da48399c690fd4ef7539f4
-SHA1: 6d60b2103fe289cf66cbcb8b401a9794f04545d7
-SHA256: f0611c008dffbf53fe1f29837dcc7391fed6cf44030a2c8db27b170570e52629
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.0.3_iphoneos-arm_7f60f6edf945c4740ba457247574910e856e72264a3073d1f400bf8781986fd4.deb
+Size: 1213180
+MD5sum: f93465835e2371f76bad969988ae8b92
+SHA1: b164955af8d8d6d422226f34ae6c26d69d5c6ac0
+SHA256: 7f60f6edf945c4740ba457247574910e856e72264a3073d1f400bf8781986fd4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1782,16 +1782,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.0.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 5068
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.0.3_iphoneos-arm_7f60f6edf945c4740ba457247574910e856e72264a3073d1f400bf8781986fd4.deb
-Size: 1213180
-MD5sum: f93465835e2371f76bad969988ae8b92
-SHA1: b164955af8d8d6d422226f34ae6c26d69d5c6ac0
-SHA256: 7f60f6edf945c4740ba457247574910e856e72264a3073d1f400bf8781986fd4
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.0.3_iphoneos-arm64_f0611c008dffbf53fe1f29837dcc7391fed6cf44030a2c8db27b170570e52629.deb
+Size: 1222806
+MD5sum: f011888469da48399c690fd4ef7539f4
+SHA1: 6d60b2103fe289cf66cbcb8b401a9794f04545d7
+SHA256: f0611c008dffbf53fe1f29837dcc7391fed6cf44030a2c8db27b170570e52629
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1800,16 +1800,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 5212
+Installed-Size: 5260
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.1.0_iphoneos-arm64_f02a54f54ff63be05f9b2fcb3718dbbbb642d02ea57402d7df09dd3fc8818a1d.deb
-Size: 1243202
-MD5sum: bd5d8dd0142fc455a230d3d552d563ad
-SHA1: 6438a8c5f9fa407e3c2dd4a95004f6884b3eea9d
-SHA256: f02a54f54ff63be05f9b2fcb3718dbbbb642d02ea57402d7df09dd3fc8818a1d
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.1.0_iphoneos-arm_5e17f2191d158f441c23fb448d9dc5145d115326ca8232f4594c705b333099ef.deb
+Size: 1257324
+MD5sum: bce9a199f8bc96f00d2aa06a02c598e7
+SHA1: cc3e6bdf7a328e836c4cfc9ff869cf59aa920178
+SHA256: 5e17f2191d158f441c23fb448d9dc5145d115326ca8232f4594c705b333099ef
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1836,16 +1836,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.1.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 5260
+Installed-Size: 5212
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.1.0_iphoneos-arm_5e17f2191d158f441c23fb448d9dc5145d115326ca8232f4594c705b333099ef.deb
-Size: 1257324
-MD5sum: bce9a199f8bc96f00d2aa06a02c598e7
-SHA1: cc3e6bdf7a328e836c4cfc9ff869cf59aa920178
-SHA256: 5e17f2191d158f441c23fb448d9dc5145d115326ca8232f4594c705b333099ef
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.1.0_iphoneos-arm64_f02a54f54ff63be05f9b2fcb3718dbbbb642d02ea57402d7df09dd3fc8818a1d.deb
+Size: 1243202
+MD5sum: bd5d8dd0142fc455a230d3d552d563ad
+SHA1: 6438a8c5f9fa407e3c2dd4a95004f6884b3eea9d
+SHA256: f02a54f54ff63be05f9b2fcb3718dbbbb642d02ea57402d7df09dd3fc8818a1d
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1854,16 +1854,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.1.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 4876
+Installed-Size: 4924
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.1.3_iphoneos-arm64_355f6fa0b3af6be5a8b0f25575f3cf746bd97969a4d5f9ffff7b2fa60fd2631b.deb
-Size: 1165174
-MD5sum: 57fa3c928b8d6170fa6f90bb4b0c5e9b
-SHA1: ba14c084a83c35d33b93a0d9636d025b51926826
-SHA256: 355f6fa0b3af6be5a8b0f25575f3cf746bd97969a4d5f9ffff7b2fa60fd2631b
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.1.3_iphoneos-arm_d80dbda550b6fb78133fed2d0ad3e0b54054581225468c185a2cd0c417ad1088.deb
+Size: 1172614
+MD5sum: e850cea1f6da88806e1a9574f951386e
+SHA1: b07b3b20feae877407d00d9c8008eab3f0d43f3f
+SHA256: d80dbda550b6fb78133fed2d0ad3e0b54054581225468c185a2cd0c417ad1088
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1890,16 +1890,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.1.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 4924
+Installed-Size: 4876
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.1.3_iphoneos-arm_d80dbda550b6fb78133fed2d0ad3e0b54054581225468c185a2cd0c417ad1088.deb
-Size: 1172614
-MD5sum: e850cea1f6da88806e1a9574f951386e
-SHA1: b07b3b20feae877407d00d9c8008eab3f0d43f3f
-SHA256: d80dbda550b6fb78133fed2d0ad3e0b54054581225468c185a2cd0c417ad1088
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.1.3_iphoneos-arm64_355f6fa0b3af6be5a8b0f25575f3cf746bd97969a4d5f9ffff7b2fa60fd2631b.deb
+Size: 1165174
+MD5sum: 57fa3c928b8d6170fa6f90bb4b0c5e9b
+SHA1: ba14c084a83c35d33b93a0d9636d025b51926826
+SHA256: 355f6fa0b3af6be5a8b0f25575f3cf746bd97969a4d5f9ffff7b2fa60fd2631b
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1908,16 +1908,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.1.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 4944
+Installed-Size: 4960
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.1.5_iphoneos-arm64_fd4d16709c7903f38e98309e2fe6bec0dd6872c65c90ffbad640fbc1d42ac1ed.deb
-Size: 1184492
-MD5sum: 3c235f911f3bb3a65b480e99012d1550
-SHA1: f0bb93d63331ffb12df89745cf238f85371a4e95
-SHA256: fd4d16709c7903f38e98309e2fe6bec0dd6872c65c90ffbad640fbc1d42ac1ed
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.1.5_iphoneos-arm_3332578c99ba58a530a3d60dd16232a9de7e6eca6549eb995f2b6128c1a63c9c.deb
+Size: 1175804
+MD5sum: 5d8d408a103802eaf80fa4c0eaf6fef3
+SHA1: f5880bae3938cde56778b9d44c49b360c7b4017c
+SHA256: 3332578c99ba58a530a3d60dd16232a9de7e6eca6549eb995f2b6128c1a63c9c
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1944,34 +1944,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidextender
 Version: 1.1.5
-Architecture: iphoneos-arm
-Maintainer: SquidForce, Backup
-Installed-Size: 4960
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidextender_1.1.5_iphoneos-arm_3332578c99ba58a530a3d60dd16232a9de7e6eca6549eb995f2b6128c1a63c9c.deb
-Size: 1175804
-MD5sum: 5d8d408a103802eaf80fa4c0eaf6fef3
-SHA1: f5880bae3938cde56778b9d44c49b360c7b4017c
-SHA256: 3332578c99ba58a530a3d60dd16232a9de7e6eca6549eb995f2b6128c1a63c9c
-Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Author: SquidForce, Backup
-Name: SquidExtender(激活码版)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
-Version: 2.0.4
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9440
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Installed-Size: 4944
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.4_iphoneos-arm64_36ac61ba801ad45811d919a3ed80022ecfb9cae802ce56a2390d0f57e8bb4846.deb
-Size: 2096746
-MD5sum: ef89ccc28a048d86fdd37c84041f92a7
-SHA1: 7404f4c6485cf3861619277e2ca887e97b5d890c
-SHA256: 36ac61ba801ad45811d919a3ed80022ecfb9cae802ce56a2390d0f57e8bb4846
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_1.1.5_iphoneos-arm64_fd4d16709c7903f38e98309e2fe6bec0dd6872c65c90ffbad640fbc1d42ac1ed.deb
+Size: 1184492
+MD5sum: 3c235f911f3bb3a65b480e99012d1550
+SHA1: f0bb93d63331ffb12df89745cf238f85371a4e95
+SHA256: fd4d16709c7903f38e98309e2fe6bec0dd6872c65c90ffbad640fbc1d42ac1ed
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -1997,17 +1979,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 2.0.5
+Version: 2.0.4
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9568
+Installed-Size: 9440
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.5_iphoneos-arm64_bfbbed148d199f2a542333623410f0964ee1dd1ab850a511ca878193af3cadaf.deb
-Size: 2129858
-MD5sum: f20e94232370660372a472f21d4c22a8
-SHA1: dac22f628d5308dad0164368e3676e440ad1a9ad
-SHA256: bfbbed148d199f2a542333623410f0964ee1dd1ab850a511ca878193af3cadaf
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.4_iphoneos-arm64_36ac61ba801ad45811d919a3ed80022ecfb9cae802ce56a2390d0f57e8bb4846.deb
+Size: 2096746
+MD5sum: ef89ccc28a048d86fdd37c84041f92a7
+SHA1: 7404f4c6485cf3861619277e2ca887e97b5d890c
+SHA256: 36ac61ba801ad45811d919a3ed80022ecfb9cae802ce56a2390d0f57e8bb4846
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2033,17 +2015,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 2.0.8
+Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9812
+Installed-Size: 9568
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.8_iphoneos-arm64_db529e124400c8b81bcfe9e9b125fba851f0f1459584bc846a560cdfd7c4c660.deb
-Size: 2167402
-MD5sum: 3fadc96f33f6671b6b8ccbcf8d448e4c
-SHA1: 01ce55e964d2b53b5bb05c9ea18f007eaf51d865
-SHA256: db529e124400c8b81bcfe9e9b125fba851f0f1459584bc846a560cdfd7c4c660
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.5_iphoneos-arm64_bfbbed148d199f2a542333623410f0964ee1dd1ab850a511ca878193af3cadaf.deb
+Size: 2129858
+MD5sum: f20e94232370660372a472f21d4c22a8
+SHA1: dac22f628d5308dad0164368e3676e440ad1a9ad
+SHA256: bfbbed148d199f2a542333623410f0964ee1dd1ab850a511ca878193af3cadaf
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2069,17 +2051,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 2.1.0
+Version: 2.0.8
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9892
+Installed-Size: 9812
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.1.0_iphoneos-arm64_69cbef7e08726e75a9c8ba5cea8f2890829dcdab9b61057564e9eb5ddc737efe.deb
-Size: 2181168
-MD5sum: a4e0140fd4af078b7fc75e10a3a1ceca
-SHA1: 06edd789feeb369778aa6930c8bdf0577897b69b
-SHA256: 69cbef7e08726e75a9c8ba5cea8f2890829dcdab9b61057564e9eb5ddc737efe
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.8_iphoneos-arm64_db529e124400c8b81bcfe9e9b125fba851f0f1459584bc846a560cdfd7c4c660.deb
+Size: 2167402
+MD5sum: 3fadc96f33f6671b6b8ccbcf8d448e4c
+SHA1: 01ce55e964d2b53b5bb05c9ea18f007eaf51d865
+SHA256: db529e124400c8b81bcfe9e9b125fba851f0f1459584bc846a560cdfd7c4c660
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2105,17 +2087,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 2.1.4
+Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9972
+Installed-Size: 9892
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.1.4_iphoneos-arm64_f1a620f8c0c78669455ef50f29936a670f3fbeeb79c1d663883d8fb711e609a4.deb
-Size: 2205916
-MD5sum: eb3a460b5e2242ef0d224409f12b844c
-SHA1: 6d39cc1a5349eaf256360d8d7cd96473b3e2ff7c
-SHA256: f1a620f8c0c78669455ef50f29936a670f3fbeeb79c1d663883d8fb711e609a4
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.1.0_iphoneos-arm64_69cbef7e08726e75a9c8ba5cea8f2890829dcdab9b61057564e9eb5ddc737efe.deb
+Size: 2181168
+MD5sum: a4e0140fd4af078b7fc75e10a3a1ceca
+SHA1: 06edd789feeb369778aa6930c8bdf0577897b69b
+SHA256: 69cbef7e08726e75a9c8ba5cea8f2890829dcdab9b61057564e9eb5ddc737efe
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2141,17 +2123,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 2.2.2
+Version: 2.1.4
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10072
+Installed-Size: 9972
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.2.2_iphoneos-arm64_3dd44fda77244e5b71cebbd350acabccd275879b8f31e5c2b121e50e831d36b9.deb
-Size: 2244502
-MD5sum: 3478b81a4dc4359e5b75ee115a867e2f
-SHA1: 49742c978e7d8c19f5842793431357a18cf174c1
-SHA256: 3dd44fda77244e5b71cebbd350acabccd275879b8f31e5c2b121e50e831d36b9
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.1.4_iphoneos-arm64_f1a620f8c0c78669455ef50f29936a670f3fbeeb79c1d663883d8fb711e609a4.deb
+Size: 2205916
+MD5sum: eb3a460b5e2242ef0d224409f12b844c
+SHA1: 6d39cc1a5349eaf256360d8d7cd96473b3e2ff7c
+SHA256: f1a620f8c0c78669455ef50f29936a670f3fbeeb79c1d663883d8fb711e609a4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2177,17 +2159,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 2.3.0
+Version: 2.2.2
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10232
+Installed-Size: 10072
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.3.0_iphoneos-arm64_cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517.deb
-Size: 2275154
-MD5sum: a0e006e0a305db1b40ed888dfa8ebe67
-SHA1: a2daec43a9796e98a1659040d68470d94f9ec0fa
-SHA256: cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.2.2_iphoneos-arm64_3dd44fda77244e5b71cebbd350acabccd275879b8f31e5c2b121e50e831d36b9.deb
+Size: 2244502
+MD5sum: 3478b81a4dc4359e5b75ee115a867e2f
+SHA1: 49742c978e7d8c19f5842793431357a18cf174c1
+SHA256: 3dd44fda77244e5b71cebbd350acabccd275879b8f31e5c2b121e50e831d36b9
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2213,17 +2195,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.0.0
+Version: 2.3.0
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 11188
+Installed-Size: 10232
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.0.0_iphoneos-arm64_5fed6d5742279d46f978aa0846a26933af7738f1205eafddb751cbd9a328cf1a.deb
-Size: 2496168
-MD5sum: 36d05816abadb68e228265e09bfc489c
-SHA1: 58d863f0816d01e62a51e805e50fcda208b9b85f
-SHA256: 5fed6d5742279d46f978aa0846a26933af7738f1205eafddb751cbd9a328cf1a
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.3.0_iphoneos-arm64_cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517.deb
+Size: 2275154
+MD5sum: a0e006e0a305db1b40ed888dfa8ebe67
+SHA1: a2daec43a9796e98a1659040d68470d94f9ec0fa
+SHA256: cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2249,17 +2231,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.5.0
+Version: 3.0.0
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10948
+Installed-Size: 11188
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.0_iphoneos-arm64_c35459383afa8835d66555f0979f25222f1fb1f32861b839a248443d9f2bfe85.deb
-Size: 2533872
-MD5sum: 3d8986f7a1fea4a3a9730e89c2c83e7a
-SHA1: fb84cf5f55c08b6415d5990142b314d05f58d770
-SHA256: c35459383afa8835d66555f0979f25222f1fb1f32861b839a248443d9f2bfe85
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.0.0_iphoneos-arm64_5fed6d5742279d46f978aa0846a26933af7738f1205eafddb751cbd9a328cf1a.deb
+Size: 2496168
+MD5sum: 36d05816abadb68e228265e09bfc489c
+SHA1: 58d863f0816d01e62a51e805e50fcda208b9b85f
+SHA256: 5fed6d5742279d46f978aa0846a26933af7738f1205eafddb751cbd9a328cf1a
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2285,17 +2267,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.5.5
+Version: 3.5.0
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10452
+Installed-Size: 10948
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.5_iphoneos-arm64_ccaaf3807a87c37e5dd8ec7d47eca69acaaab9568871f04bc8e20b71ae7fb5c4.deb
-Size: 2419318
-MD5sum: b559657169f9d8cd4c973321b3d2a6b7
-SHA1: fb7455056ac2001ea5bd16d9d81d7562c1f10d6a
-SHA256: ccaaf3807a87c37e5dd8ec7d47eca69acaaab9568871f04bc8e20b71ae7fb5c4
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.0_iphoneos-arm64_c35459383afa8835d66555f0979f25222f1fb1f32861b839a248443d9f2bfe85.deb
+Size: 2533872
+MD5sum: 3d8986f7a1fea4a3a9730e89c2c83e7a
+SHA1: fb84cf5f55c08b6415d5990142b314d05f58d770
+SHA256: c35459383afa8835d66555f0979f25222f1fb1f32861b839a248443d9f2bfe85
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2321,17 +2303,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.5.7
+Version: 3.5.5
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10484
+Installed-Size: 10452
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.7_iphoneos-arm64_2ad2316c61db038db2e46bbe1d86b11184268bbe07ab22657219eaa154978aef.deb
-Size: 2422084
-MD5sum: 0a6adfaf16d27029f46e2599f4309506
-SHA1: b559d02e17589134a13f07e0f20324155858ea2c
-SHA256: 2ad2316c61db038db2e46bbe1d86b11184268bbe07ab22657219eaa154978aef
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.5_iphoneos-arm64_ccaaf3807a87c37e5dd8ec7d47eca69acaaab9568871f04bc8e20b71ae7fb5c4.deb
+Size: 2419318
+MD5sum: b559657169f9d8cd4c973321b3d2a6b7
+SHA1: fb7455056ac2001ea5bd16d9d81d7562c1f10d6a
+SHA256: ccaaf3807a87c37e5dd8ec7d47eca69acaaab9568871f04bc8e20b71ae7fb5c4
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2357,17 +2339,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.6.2
+Version: 3.5.7
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9792
+Installed-Size: 10484
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.6.2_iphoneos-arm64_2b749ed5166d0b20f9b9b0cb2399e431a97fd41662bae7019d0e35a95e025eab.deb
-Size: 2226272
-MD5sum: b3076d82d44527e77fb80fb1425b0149
-SHA1: 0c0891fb179ce4a6bfde5989713fb8d164b03091
-SHA256: 2b749ed5166d0b20f9b9b0cb2399e431a97fd41662bae7019d0e35a95e025eab
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.5.7_iphoneos-arm64_2ad2316c61db038db2e46bbe1d86b11184268bbe07ab22657219eaa154978aef.deb
+Size: 2422084
+MD5sum: 0a6adfaf16d27029f46e2599f4309506
+SHA1: b559d02e17589134a13f07e0f20324155858ea2c
+SHA256: 2ad2316c61db038db2e46bbe1d86b11184268bbe07ab22657219eaa154978aef
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2393,17 +2375,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.6.5
+Version: 3.6.2
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9808
+Installed-Size: 9792
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.6.5_iphoneos-arm64_00ad4fad9699cce4562799af91806cffbd659f5310df76aba05fdd049a25555b.deb
-Size: 2239996
-MD5sum: afebbd472dcacf3448178a0ad1641dc3
-SHA1: 1248d64f90ac104b403ced6d8e4cd26bbc63a8e7
-SHA256: 00ad4fad9699cce4562799af91806cffbd659f5310df76aba05fdd049a25555b
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.6.2_iphoneos-arm64_2b749ed5166d0b20f9b9b0cb2399e431a97fd41662bae7019d0e35a95e025eab.deb
+Size: 2226272
+MD5sum: b3076d82d44527e77fb80fb1425b0149
+SHA1: 0c0891fb179ce4a6bfde5989713fb8d164b03091
+SHA256: 2b749ed5166d0b20f9b9b0cb2399e431a97fd41662bae7019d0e35a95e025eab
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2429,17 +2411,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.7.0
+Version: 3.6.5
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9908
+Installed-Size: 9808
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.0_iphoneos-arm64_22bf0489fcd8af062c7ca639339c939b0b05aee45cb6fe4225c0f494fa161b94.deb
-Size: 2256994
-MD5sum: 36f152c9792574620ce0c57bc91a7814
-SHA1: d0a8e273903ea1d0ca3f5df943ff954dba022c57
-SHA256: 22bf0489fcd8af062c7ca639339c939b0b05aee45cb6fe4225c0f494fa161b94
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.6.5_iphoneos-arm64_00ad4fad9699cce4562799af91806cffbd659f5310df76aba05fdd049a25555b.deb
+Size: 2239996
+MD5sum: afebbd472dcacf3448178a0ad1641dc3
+SHA1: 1248d64f90ac104b403ced6d8e4cd26bbc63a8e7
+SHA256: 00ad4fad9699cce4562799af91806cffbd659f5310df76aba05fdd049a25555b
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2465,17 +2447,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.7.2
+Version: 3.7.0
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9972
+Installed-Size: 9908
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.2_iphoneos-arm64_2ee493550c50f1f3f2f610f16586ce73aef3175bd0fa72b5e032392c85b20c98.deb
-Size: 2270604
-MD5sum: 2669826cbe1712d3180f632ef588dd05
-SHA1: 43bacd785907c920919c73a5d7ee2619d9373081
-SHA256: 2ee493550c50f1f3f2f610f16586ce73aef3175bd0fa72b5e032392c85b20c98
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.0_iphoneos-arm64_22bf0489fcd8af062c7ca639339c939b0b05aee45cb6fe4225c0f494fa161b94.deb
+Size: 2256994
+MD5sum: 36f152c9792574620ce0c57bc91a7814
+SHA1: d0a8e273903ea1d0ca3f5df943ff954dba022c57
+SHA256: 22bf0489fcd8af062c7ca639339c939b0b05aee45cb6fe4225c0f494fa161b94
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2501,17 +2483,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.7.3
+Version: 3.7.2
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 9972
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.3_iphoneos-arm64_83771e686533f5336ade701cc9d99ba3cd46602a03f154b631ef769ca4c84673.deb
-Size: 2273096
-MD5sum: b49a914df0ab5caf0fdd53b130b84c64
-SHA1: f118b09d07610182115c90ac2b772ade4cb5c05e
-SHA256: 83771e686533f5336ade701cc9d99ba3cd46602a03f154b631ef769ca4c84673
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.2_iphoneos-arm64_2ee493550c50f1f3f2f610f16586ce73aef3175bd0fa72b5e032392c85b20c98.deb
+Size: 2270604
+MD5sum: 2669826cbe1712d3180f632ef588dd05
+SHA1: 43bacd785907c920919c73a5d7ee2619d9373081
+SHA256: 2ee493550c50f1f3f2f610f16586ce73aef3175bd0fa72b5e032392c85b20c98
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2537,17 +2519,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.7.3-1
+Version: 3.7.3
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 9972
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.3-1_iphoneos-arm64_6a911df4e0a8b4cdec51d40e6c6943df8655a6ebe666ea0963857063fc58230c.deb
-Size: 2273908
-MD5sum: 441eacec94c20074b9b93660669a95c9
-SHA1: dc18c9dae59e15621860bed38ddd027786c24219
-SHA256: 6a911df4e0a8b4cdec51d40e6c6943df8655a6ebe666ea0963857063fc58230c
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.3_iphoneos-arm64_83771e686533f5336ade701cc9d99ba3cd46602a03f154b631ef769ca4c84673.deb
+Size: 2273096
+MD5sum: b49a914df0ab5caf0fdd53b130b84c64
+SHA1: f118b09d07610182115c90ac2b772ade4cb5c05e
+SHA256: 83771e686533f5336ade701cc9d99ba3cd46602a03f154b631ef769ca4c84673
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2573,17 +2555,17 @@ Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Version: 3.7.4
+Version: 3.7.3-1
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 9988
+Installed-Size: 9972
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.4_iphoneos-arm64_ab4654bb32b7d36b8fa8a4fe0285b351c918dff2f90b9f9e8f94289b8e1bcb49.deb
-Size: 2285264
-MD5sum: c221fff63e0da2f5f1bcb13ceaf5ff08
-SHA1: cadc9571737befc2d31f263a6369c2c0d2e5ca36
-SHA256: ab4654bb32b7d36b8fa8a4fe0285b351c918dff2f90b9f9e8f94289b8e1bcb49
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.3-1_iphoneos-arm64_6a911df4e0a8b4cdec51d40e6c6943df8655a6ebe666ea0963857063fc58230c.deb
+Size: 2273908
+MD5sum: 441eacec94c20074b9b93660669a95c9
+SHA1: dc18c9dae59e15621860bed38ddd027786c24219
+SHA256: 6a911df4e0a8b4cdec51d40e6c6943df8655a6ebe666ea0963857063fc58230c
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -2608,18 +2590,36 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
-Package: cn.octoforce.squidgesturepro
-Version: 2.1.5
+Package: cn.octoforce.squidextender
+Version: 3.7.4
 Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10636
+Installed-Size: 9988
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_3.7.4_iphoneos-arm64_ab4654bb32b7d36b8fa8a4fe0285b351c918dff2f90b9f9e8f94289b8e1bcb49.deb
+Size: 2285264
+MD5sum: c221fff63e0da2f5f1bcb13ceaf5ff08
+SHA1: cadc9571737befc2d31f263a6369c2c0d2e5ca36
+SHA256: ab4654bb32b7d36b8fa8a4fe0285b351c918dff2f90b9f9e8f94289b8e1bcb49
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.1.5
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 10620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.1.5_iphoneos-arm64_294c4a38625d3eaea592675e85693104e21963ad6d2e33754825eaa6f5106fb3.deb
-Size: 3389414
-MD5sum: d99cd81edc3672403c5f8c875265805d
-SHA1: 542232bba6ce328ed30bab2cf0b66b018e63955c
-SHA256: 294c4a38625d3eaea592675e85693104e21963ad6d2e33754825eaa6f5106fb3
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.1.5_iphoneos-arm_0c6e98d3697e1f14cd7e88dd8fba6930fb4238932c1d8ce5a47b8006f9371401.deb
+Size: 3383696
+MD5sum: 24c7bda77100b3f1f442bfb612e9d28d
+SHA1: 02adb1d81d25d63931813b56740c319d05586eb8
+SHA256: 0c6e98d3697e1f14cd7e88dd8fba6930fb4238932c1d8ce5a47b8006f9371401
 Section: Tweaks
 Description: Gestures，非激活码用户不要装!!!!!!!!!!!!
 Author: SquidForce, Backup
@@ -2644,16 +2644,16 @@ Name: SquidGesturePro(激活码版)
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10620
+Installed-Size: 10636
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.1.5_iphoneos-arm_0c6e98d3697e1f14cd7e88dd8fba6930fb4238932c1d8ce5a47b8006f9371401.deb
-Size: 3383696
-MD5sum: 24c7bda77100b3f1f442bfb612e9d28d
-SHA1: 02adb1d81d25d63931813b56740c319d05586eb8
-SHA256: 0c6e98d3697e1f14cd7e88dd8fba6930fb4238932c1d8ce5a47b8006f9371401
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.1.5_iphoneos-arm64_294c4a38625d3eaea592675e85693104e21963ad6d2e33754825eaa6f5106fb3.deb
+Size: 3389414
+MD5sum: d99cd81edc3672403c5f8c875265805d
+SHA1: 542232bba6ce328ed30bab2cf0b66b018e63955c
+SHA256: 294c4a38625d3eaea592675e85693104e21963ad6d2e33754825eaa6f5106fb3
 Section: Tweaks
 Description: Gestures，非激活码用户不要装!!!!!!!!!!!!
 Author: SquidForce, Backup
@@ -2661,16 +2661,16 @@ Name: SquidGesturePro(激活码版)
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 10604
+Installed-Size: 10700
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.1.6_iphoneos-arm64_1e9a40c2c1f05405377987ce1b4a0918109d35df8939f94c7b4e8f1e006d089b.deb
-Size: 3383124
-MD5sum: 18c826a76edd76c0b668c05964d4119c
-SHA1: ba693ecae154402f439d4cc73c0591d05867fccc
-SHA256: 1e9a40c2c1f05405377987ce1b4a0918109d35df8939f94c7b4e8f1e006d089b
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.1.6_iphoneos-arm_560203b0037c06e57b0ce1a12dacddf42c8cb96948e931e17310030623bf7133.deb
+Size: 3414508
+MD5sum: 3e741012c9c2140930ccf03563945ac8
+SHA1: 7dda074c608998a95d79eebd5f5bb4c0da2c1fd8
+SHA256: 560203b0037c06e57b0ce1a12dacddf42c8cb96948e931e17310030623bf7133
 Section: Tweaks
 Description: Gestures，非激活码用户不要装!!!!!!!!!!!!
 Author: SquidForce, Backup
@@ -2695,16 +2695,16 @@ Name: SquidGesturePro(激活码版)
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10700
+Installed-Size: 10604
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.1.6_iphoneos-arm_560203b0037c06e57b0ce1a12dacddf42c8cb96948e931e17310030623bf7133.deb
-Size: 3414508
-MD5sum: 3e741012c9c2140930ccf03563945ac8
-SHA1: 7dda074c608998a95d79eebd5f5bb4c0da2c1fd8
-SHA256: 560203b0037c06e57b0ce1a12dacddf42c8cb96948e931e17310030623bf7133
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.1.6_iphoneos-arm64_1e9a40c2c1f05405377987ce1b4a0918109d35df8939f94c7b4e8f1e006d089b.deb
+Size: 3383124
+MD5sum: 18c826a76edd76c0b668c05964d4119c
+SHA1: ba693ecae154402f439d4cc73c0591d05867fccc
+SHA256: 1e9a40c2c1f05405377987ce1b4a0918109d35df8939f94c7b4e8f1e006d089b
 Section: Tweaks
 Description: Gestures，非激活码用户不要装!!!!!!!!!!!!
 Author: SquidForce, Backup
@@ -2712,16 +2712,16 @@ Name: SquidGesturePro(激活码版)
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 10828
+Installed-Size: 10876
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.1.7_iphoneos-arm64_d354515c3389e89812c1be99bafb2f4a835f129878ec64463683bcd336b97b5d.deb
-Size: 3444666
-MD5sum: 8276c9f3ff3899545d71fd29e6c33b76
-SHA1: 9c86bb38cdef43fc80f3f87551e5a0c79e814e98
-SHA256: d354515c3389e89812c1be99bafb2f4a835f129878ec64463683bcd336b97b5d
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.1.7_iphoneos-arm_4655328268845861e45900a9b7cb469516dec411450b8f8872ba5bff0110750a.deb
+Size: 3446942
+MD5sum: 76841a21a68889e6899752b772335105
+SHA1: 14735cb4d5f73f3a80ed5be8511223ec3d4c5fc9
+SHA256: 4655328268845861e45900a9b7cb469516dec411450b8f8872ba5bff0110750a
 Section: Tweaks
 Description: Gestures，非激活码用户不要装!!!!!!!!!!!!
 Author: SquidForce, Backup
@@ -2748,16 +2748,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.1.7
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 10876
+Installed-Size: 10828
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.1.7_iphoneos-arm_4655328268845861e45900a9b7cb469516dec411450b8f8872ba5bff0110750a.deb
-Size: 3446942
-MD5sum: 76841a21a68889e6899752b772335105
-SHA1: 14735cb4d5f73f3a80ed5be8511223ec3d4c5fc9
-SHA256: 4655328268845861e45900a9b7cb469516dec411450b8f8872ba5bff0110750a
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.1.7_iphoneos-arm64_d354515c3389e89812c1be99bafb2f4a835f129878ec64463683bcd336b97b5d.deb
+Size: 3444666
+MD5sum: 8276c9f3ff3899545d71fd29e6c33b76
+SHA1: 9c86bb38cdef43fc80f3f87551e5a0c79e814e98
+SHA256: d354515c3389e89812c1be99bafb2f4a835f129878ec64463683bcd336b97b5d
 Section: Tweaks
 Description: Gestures，非激活码用户不要装!!!!!!!!!!!!
 Author: SquidForce, Backup
@@ -2766,16 +2766,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 7428
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.0_iphoneos-arm64_61a7d0950c931315c0233f29b67eb32ab4ba8ae27adb12921ff43eb2093ba6d2.deb
-Size: 2162272
-MD5sum: 885a541078c15fc2b4d7da49c1c07f9c
-SHA1: 2e9aaf516b133873dd57f51f3a017070bb21c511
-SHA256: 61a7d0950c931315c0233f29b67eb32ab4ba8ae27adb12921ff43eb2093ba6d2
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.0_iphoneos-arm_10c0cda097dfdb290a7d1fb6aef9416689c66e3d1f2c5a70a34b594aad3cc4f5.deb
+Size: 2164574
+MD5sum: df60b767868605bb0e55366c0fe94a26
+SHA1: 8ba225c234f947aab0ac34d67d67a488f0baccdc
+SHA256: 10c0cda097dfdb290a7d1fb6aef9416689c66e3d1f2c5a70a34b594aad3cc4f5
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2802,16 +2802,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 7428
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.0_iphoneos-arm_10c0cda097dfdb290a7d1fb6aef9416689c66e3d1f2c5a70a34b594aad3cc4f5.deb
-Size: 2164574
-MD5sum: df60b767868605bb0e55366c0fe94a26
-SHA1: 8ba225c234f947aab0ac34d67d67a488f0baccdc
-SHA256: 10c0cda097dfdb290a7d1fb6aef9416689c66e3d1f2c5a70a34b594aad3cc4f5
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.0_iphoneos-arm64_61a7d0950c931315c0233f29b67eb32ab4ba8ae27adb12921ff43eb2093ba6d2.deb
+Size: 2162272
+MD5sum: 885a541078c15fc2b4d7da49c1c07f9c
+SHA1: 2e9aaf516b133873dd57f51f3a017070bb21c511
+SHA256: 61a7d0950c931315c0233f29b67eb32ab4ba8ae27adb12921ff43eb2093ba6d2
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2820,16 +2820,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7572
+Installed-Size: 7652
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.2_iphoneos-arm64_14cf8633623453d4dc8e1cad3e3fdd2f74625a273a645d9590eec690ca763154.deb
-Size: 2211222
-MD5sum: 56a10974d0ec6c24a1c7388229941073
-SHA1: 6dcf3b261f24b4339ab40de5d11a6c8d6619039d
-SHA256: 14cf8633623453d4dc8e1cad3e3fdd2f74625a273a645d9590eec690ca763154
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.2_iphoneos-arm_9ba9580c30d75c96a78702ef551f68637273cb2045209557ffe494ce75023715.deb
+Size: 2219122
+MD5sum: 5a48e6b7c1934dcb19e099df204d285b
+SHA1: 0466e2063ee8a94e9ed5398807306228b25de5ab
+SHA256: 9ba9580c30d75c96a78702ef551f68637273cb2045209557ffe494ce75023715
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2856,16 +2856,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7652
+Installed-Size: 7572
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.2_iphoneos-arm_9ba9580c30d75c96a78702ef551f68637273cb2045209557ffe494ce75023715.deb
-Size: 2219122
-MD5sum: 5a48e6b7c1934dcb19e099df204d285b
-SHA1: 0466e2063ee8a94e9ed5398807306228b25de5ab
-SHA256: 9ba9580c30d75c96a78702ef551f68637273cb2045209557ffe494ce75023715
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.2_iphoneos-arm64_14cf8633623453d4dc8e1cad3e3fdd2f74625a273a645d9590eec690ca763154.deb
+Size: 2211222
+MD5sum: 56a10974d0ec6c24a1c7388229941073
+SHA1: 6dcf3b261f24b4339ab40de5d11a6c8d6619039d
+SHA256: 14cf8633623453d4dc8e1cad3e3fdd2f74625a273a645d9590eec690ca763154
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2874,16 +2874,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7408
+Installed-Size: 7392
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.6_iphoneos-arm64_efa512a67f239e34e7741c4c82ec25a7a666d5fd01606ab557426064c0bc940b.deb
-Size: 2205894
-MD5sum: 26677f7248a783126f834b2df81a75ea
-SHA1: e58ef121e8ffb0ec3218aa9a4f79389a8d2de5eb
-SHA256: efa512a67f239e34e7741c4c82ec25a7a666d5fd01606ab557426064c0bc940b
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.6_iphoneos-arm_682c5035466cf8ff3a2e03f2adb9cdae05bdd5c48671c0c936e0aead0b873d3f.deb
+Size: 2215906
+MD5sum: 86e5767951650c18667bc23bbacee4f6
+SHA1: 2eaa50e98fecdcfd3b7f0ae6c4f1ba27a300e872
+SHA256: 682c5035466cf8ff3a2e03f2adb9cdae05bdd5c48671c0c936e0aead0b873d3f
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2910,16 +2910,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7392
+Installed-Size: 7408
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.6_iphoneos-arm_682c5035466cf8ff3a2e03f2adb9cdae05bdd5c48671c0c936e0aead0b873d3f.deb
-Size: 2215906
-MD5sum: 86e5767951650c18667bc23bbacee4f6
-SHA1: 2eaa50e98fecdcfd3b7f0ae6c4f1ba27a300e872
-SHA256: 682c5035466cf8ff3a2e03f2adb9cdae05bdd5c48671c0c936e0aead0b873d3f
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.6_iphoneos-arm64_efa512a67f239e34e7741c4c82ec25a7a666d5fd01606ab557426064c0bc940b.deb
+Size: 2205894
+MD5sum: 26677f7248a783126f834b2df81a75ea
+SHA1: e58ef121e8ffb0ec3218aa9a4f79389a8d2de5eb
+SHA256: efa512a67f239e34e7741c4c82ec25a7a666d5fd01606ab557426064c0bc940b
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2928,16 +2928,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 7456
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.7_iphoneos-arm64_e77b42025738011060e8f877f167b4c315ca5e0631803405a95fda6a634adfc6.deb
-Size: 2212554
-MD5sum: 5df9798a1ff0a0b554dc5627ea44f687
-SHA1: 27b443930ecdf6aa0c1020cb7aaf4ca73361b8fb
-SHA256: e77b42025738011060e8f877f167b4c315ca5e0631803405a95fda6a634adfc6
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.7_iphoneos-arm_0285e47c52750fdfec6a1dd41447beeb79727f861105707e39cfc4197e59ddb7.deb
+Size: 2215370
+MD5sum: 548a3221eb335d23c0fe071e294baf99
+SHA1: 1df4aa655d242e5400a7bda3e99ec33f534addbd
+SHA256: 0285e47c52750fdfec6a1dd41447beeb79727f861105707e39cfc4197e59ddb7
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2964,16 +2964,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.7
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 7456
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.7_iphoneos-arm_0285e47c52750fdfec6a1dd41447beeb79727f861105707e39cfc4197e59ddb7.deb
-Size: 2215370
-MD5sum: 548a3221eb335d23c0fe071e294baf99
-SHA1: 1df4aa655d242e5400a7bda3e99ec33f534addbd
-SHA256: 0285e47c52750fdfec6a1dd41447beeb79727f861105707e39cfc4197e59ddb7
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.7_iphoneos-arm64_e77b42025738011060e8f877f167b4c315ca5e0631803405a95fda6a634adfc6.deb
+Size: 2212554
+MD5sum: 5df9798a1ff0a0b554dc5627ea44f687
+SHA1: 27b443930ecdf6aa0c1020cb7aaf4ca73361b8fb
+SHA256: e77b42025738011060e8f877f167b4c315ca5e0631803405a95fda6a634adfc6
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -2982,16 +2982,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7588
+Installed-Size: 7620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.9_iphoneos-arm64_537468356f8ff083dd04b014d86eacb9d84af98dc22413cea5567a97e8911c3c.deb
-Size: 2256412
-MD5sum: f953a99997239ec3db7e5b55282ccd23
-SHA1: 578013ce89b93c6c6086334751489d428e3448b9
-SHA256: 537468356f8ff083dd04b014d86eacb9d84af98dc22413cea5567a97e8911c3c
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.9_iphoneos-arm_96556e70015a4508b14c71344f650e5defced5a2ddca8c951b2d04deaaceb36d.deb
+Size: 2258916
+MD5sum: f7334ef08ee59297e292208aecab71f7
+SHA1: cac9597fc8009ea1c4c6eb31059d45f52a67aa22
+SHA256: 96556e70015a4508b14c71344f650e5defced5a2ddca8c951b2d04deaaceb36d
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3018,16 +3018,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.2.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7620
+Installed-Size: 7588
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.2.9_iphoneos-arm_96556e70015a4508b14c71344f650e5defced5a2ddca8c951b2d04deaaceb36d.deb
-Size: 2258916
-MD5sum: f7334ef08ee59297e292208aecab71f7
-SHA1: cac9597fc8009ea1c4c6eb31059d45f52a67aa22
-SHA256: 96556e70015a4508b14c71344f650e5defced5a2ddca8c951b2d04deaaceb36d
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.2.9_iphoneos-arm64_537468356f8ff083dd04b014d86eacb9d84af98dc22413cea5567a97e8911c3c.deb
+Size: 2256412
+MD5sum: f953a99997239ec3db7e5b55282ccd23
+SHA1: 578013ce89b93c6c6086334751489d428e3448b9
+SHA256: 537468356f8ff083dd04b014d86eacb9d84af98dc22413cea5567a97e8911c3c
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3036,16 +3036,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 8276
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.0_iphoneos-arm64_0e1fb11885b3f4dfacef5b3b7683307e6e9fa219546a7285904a58bf83f4e979.deb
-Size: 2443068
-MD5sum: db42d2e07fcac903ddde254a8d99e2b0
-SHA1: 7cdb8201dbb674963aae83a8987ff3b697a222ea
-SHA256: 0e1fb11885b3f4dfacef5b3b7683307e6e9fa219546a7285904a58bf83f4e979
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.0_iphoneos-arm_a2ecf1bde967ba3f853c3021cce9759ef0a1273010e77df0726a8293208916cc.deb
+Size: 2445900
+MD5sum: 77503968067486a25d627fe8b91e1b54
+SHA1: 9b1cd52a3deabacc4310b5a77cf51211f9a0468a
+SHA256: a2ecf1bde967ba3f853c3021cce9759ef0a1273010e77df0726a8293208916cc
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3072,16 +3072,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 8276
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.0_iphoneos-arm_a2ecf1bde967ba3f853c3021cce9759ef0a1273010e77df0726a8293208916cc.deb
-Size: 2445900
-MD5sum: 77503968067486a25d627fe8b91e1b54
-SHA1: 9b1cd52a3deabacc4310b5a77cf51211f9a0468a
-SHA256: a2ecf1bde967ba3f853c3021cce9759ef0a1273010e77df0726a8293208916cc
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.0_iphoneos-arm64_0e1fb11885b3f4dfacef5b3b7683307e6e9fa219546a7285904a58bf83f4e979.deb
+Size: 2443068
+MD5sum: db42d2e07fcac903ddde254a8d99e2b0
+SHA1: 7cdb8201dbb674963aae83a8987ff3b697a222ea
+SHA256: 0e1fb11885b3f4dfacef5b3b7683307e6e9fa219546a7285904a58bf83f4e979
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3090,16 +3090,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.2+5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7292
+Installed-Size: 7308
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.2+5_iphoneos-arm64_4067ebf8c8d9f5ee0e0156523abb7e45f3eeae52ff8b8713d2ad80823655e5a5.deb
-Size: 2139962
-MD5sum: af16cdc93229c436710c6f87b9634ea0
-SHA1: f556aef9f7407085448508d46c807ee175a300dd
-SHA256: 4067ebf8c8d9f5ee0e0156523abb7e45f3eeae52ff8b8713d2ad80823655e5a5
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.2+5_iphoneos-arm_1c56791074e30709ed0de8905f423061deb4d64ad1a59534c33a24eac09ffcf2.deb
+Size: 2153812
+MD5sum: 05120c8623e8e850e0824aee519be0c0
+SHA1: c52e32ef86e560aa542748af4cc509e0e1068bdf
+SHA256: 1c56791074e30709ed0de8905f423061deb4d64ad1a59534c33a24eac09ffcf2
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3126,16 +3126,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.2+5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7308
+Installed-Size: 7292
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.2+5_iphoneos-arm_1c56791074e30709ed0de8905f423061deb4d64ad1a59534c33a24eac09ffcf2.deb
-Size: 2153812
-MD5sum: 05120c8623e8e850e0824aee519be0c0
-SHA1: c52e32ef86e560aa542748af4cc509e0e1068bdf
-SHA256: 1c56791074e30709ed0de8905f423061deb4d64ad1a59534c33a24eac09ffcf2
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.2+5_iphoneos-arm64_4067ebf8c8d9f5ee0e0156523abb7e45f3eeae52ff8b8713d2ad80823655e5a5.deb
+Size: 2139962
+MD5sum: af16cdc93229c436710c6f87b9634ea0
+SHA1: f556aef9f7407085448508d46c807ee175a300dd
+SHA256: 4067ebf8c8d9f5ee0e0156523abb7e45f3eeae52ff8b8713d2ad80823655e5a5
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3144,16 +3144,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.2+8
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7224
+Installed-Size: 7240
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.2+8_iphoneos-arm64_c4dd529fb01174dcb5990130383fce1df0130a7710b2fab390a03ca779b4ecee.deb
-Size: 2128684
-MD5sum: 40d0246caff44748be9519aa5291a261
-SHA1: 31935d76c8a297e699516845d48e5b242aa7c172
-SHA256: c4dd529fb01174dcb5990130383fce1df0130a7710b2fab390a03ca779b4ecee
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.2+8_iphoneos-arm_c79b37cbd41c683b047e41df2e5216b6bfd0f733201a4307baf4bcd4ddc6e33d.deb
+Size: 2132058
+MD5sum: fb1d3f47737fc9c835461aed6c1195ec
+SHA1: bebe019bff9ae41575f0046bf1919647014b2c0d
+SHA256: c79b37cbd41c683b047e41df2e5216b6bfd0f733201a4307baf4bcd4ddc6e33d
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3180,16 +3180,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.2+8
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7240
+Installed-Size: 7224
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.2+8_iphoneos-arm_c79b37cbd41c683b047e41df2e5216b6bfd0f733201a4307baf4bcd4ddc6e33d.deb
-Size: 2132058
-MD5sum: fb1d3f47737fc9c835461aed6c1195ec
-SHA1: bebe019bff9ae41575f0046bf1919647014b2c0d
-SHA256: c79b37cbd41c683b047e41df2e5216b6bfd0f733201a4307baf4bcd4ddc6e33d
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.2+8_iphoneos-arm64_c4dd529fb01174dcb5990130383fce1df0130a7710b2fab390a03ca779b4ecee.deb
+Size: 2128684
+MD5sum: 40d0246caff44748be9519aa5291a261
+SHA1: 31935d76c8a297e699516845d48e5b242aa7c172
+SHA256: c4dd529fb01174dcb5990130383fce1df0130a7710b2fab390a03ca779b4ecee
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3198,16 +3198,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7308
+Installed-Size: 7256
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.3_iphoneos-arm64_1e742cf661aeb5eff4586c3752fceff86a555a7b503f5cb7bd3193823ceb1bf2.deb
-Size: 2143690
-MD5sum: 967603c984e229522f89cd505dd8d5b3
-SHA1: d685ba4cbb55ad28d861a4e860ddcb2dfe05bb04
-SHA256: 1e742cf661aeb5eff4586c3752fceff86a555a7b503f5cb7bd3193823ceb1bf2
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.3_iphoneos-arm_cacaac94424bc6a57981e5b67c57643a012a88faec29c117758e39c91846aec4.deb
+Size: 2148444
+MD5sum: cd4b46f6620bbfee3921bb80299ff9af
+SHA1: 28276d06dadca8e428bc90455ec683d31f2aa35f
+SHA256: cacaac94424bc6a57981e5b67c57643a012a88faec29c117758e39c91846aec4
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3234,16 +3234,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.5.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 7256
+Installed-Size: 7308
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.5.3_iphoneos-arm_cacaac94424bc6a57981e5b67c57643a012a88faec29c117758e39c91846aec4.deb
-Size: 2148444
-MD5sum: cd4b46f6620bbfee3921bb80299ff9af
-SHA1: 28276d06dadca8e428bc90455ec683d31f2aa35f
-SHA256: cacaac94424bc6a57981e5b67c57643a012a88faec29c117758e39c91846aec4
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.5.3_iphoneos-arm64_1e742cf661aeb5eff4586c3752fceff86a555a7b503f5cb7bd3193823ceb1bf2.deb
+Size: 2143690
+MD5sum: 967603c984e229522f89cd505dd8d5b3
+SHA1: d685ba4cbb55ad28d861a4e860ddcb2dfe05bb04
+SHA256: 1e742cf661aeb5eff4586c3752fceff86a555a7b503f5cb7bd3193823ceb1bf2
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3252,16 +3252,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7308
+Installed-Size: 7388
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm64_435e00a771ffb6a1be54f8c8439c3bd16b5a809676ba62461e19b9811facfe6d.deb
-Size: 2066740
-MD5sum: 42d6ce6ba18ac01b828dccb67e2ca7fc
-SHA1: 76882d30a2b7047fd2bc5abc3d6066070c78b5c2
-SHA256: 435e00a771ffb6a1be54f8c8439c3bd16b5a809676ba62461e19b9811facfe6d
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm_cb8a94fed2d0257fd5ac6a494cc628eba036aaf09dd43c76ba985ee2a84c21af.deb
+Size: 2075308
+MD5sum: 2a76eae7eb07089a609ea8096ef46a8a
+SHA1: 122ad2b3d50a813d1d4ffb892f02b36c958e2b6b
+SHA256: cb8a94fed2d0257fd5ac6a494cc628eba036aaf09dd43c76ba985ee2a84c21af
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3288,88 +3288,34 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 7308
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm64_435e00a771ffb6a1be54f8c8439c3bd16b5a809676ba62461e19b9811facfe6d.deb
+Size: 2066740
+MD5sum: 42d6ce6ba18ac01b828dccb67e2ca7fc
+SHA1: 76882d30a2b7047fd2bc5abc3d6066070c78b5c2
+SHA256: 435e00a771ffb6a1be54f8c8439c3bd16b5a809676ba62461e19b9811facfe6d
+Section: Tweaks
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce, Backup
+Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.6.3
 Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 7388
+Installed-Size: 7440
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm_cb8a94fed2d0257fd5ac6a494cc628eba036aaf09dd43c76ba985ee2a84c21af.deb
-Size: 2075308
-MD5sum: 2a76eae7eb07089a609ea8096ef46a8a
-SHA1: 122ad2b3d50a813d1d4ffb892f02b36c958e2b6b
-SHA256: cb8a94fed2d0257fd5ac6a494cc628eba036aaf09dd43c76ba985ee2a84c21af
-Section: Tweaks
-Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
-Author: SquidForce, Backup
-Name: SquidGesturePro(激活码)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
-
-Package: cn.octoforce.squidgesturepro
-Version: 2.6.3
-Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 7292
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64_1240516fb919eb35d4b3c58f7a92e5e8900a79ad5b984b2eba0a97c092dc87e7.deb
-Size: 2067962
-MD5sum: c1d1c6cec0d08990500674ef220bc6be
-SHA1: eaf10ec17a5a6d04b58783c87a82a9e59fa8924e
-SHA256: 1240516fb919eb35d4b3c58f7a92e5e8900a79ad5b984b2eba0a97c092dc87e7
-Section: Tweaks
-Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
-Author: SquidForce, Backup
-Name: SquidGesturePro(激活码)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
-
-Package: cn.octoforce.squidgesturepro
-Version: 2.6.3
-Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 7276
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64_778bff52e1d41779ec9f7cb5b0cf6f5fb31ddae5bdd5b8a2044bea8a7327e468.deb
-Size: 2063456
-MD5sum: 6be3fe960e15254d6aeb1f436bc2183b
-SHA1: 73fa1c113c16f817830e4ea2cc1288d8e108878f
-SHA256: 778bff52e1d41779ec9f7cb5b0cf6f5fb31ddae5bdd5b8a2044bea8a7327e468
-Section: Tweaks
-Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
-Author: SquidForce, Backup
-Name: SquidGesturePro(激活码)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
-
-Package: cn.octoforce.squidgesturepro
-Version: 2.6.3
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce, Backup
-Installed-Size: 7384
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64e/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64e_9902e35e58c7578e47bfccb5a632cbd43c0fafdb6a6c0013e3d1c3c603133a46.deb
-Size: 2066646
-MD5sum: 03bb11581582d31f744c81db22c54e50
-SHA1: 304f946a0b5bca8d7c8694bb5873f7ef84f7ac9a
-SHA256: 9902e35e58c7578e47bfccb5a632cbd43c0fafdb6a6c0013e3d1c3c603133a46
-Section: Tweaks
-Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
-Author: SquidForce, Backup
-Name: SquidGesturePro(激活码)
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
-
-Package: cn.octoforce.squidgesturepro
-Version: 2.6.3
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce, Backup
-Installed-Size: 7320
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64e/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64e_f3ead824e16c013407dac1fc67c1ee3567b33065e3dd428e644bde3e2a8d7213.deb
-Size: 2068430
-MD5sum: c41b67e46b3ff44e2a9b26412d5c50e4
-SHA1: acb26f7f56d85e3a9a2327edcf2816e2b992c6de
-SHA256: f3ead824e16c013407dac1fc67c1ee3567b33065e3dd428e644bde3e2a8d7213
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm_f4b6d6e945d25f9143e388abb5babf3393e347dc129e8ff14731613efe97e19f.deb
+Size: 2084780
+MD5sum: 85a51fc8acb1b8b6d95923665cf17836
+SHA1: 52057237cd396c7ffcd9595c0378bec6a9948bba
+SHA256: f4b6d6e945d25f9143e388abb5babf3393e347dc129e8ff14731613efe97e19f
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3396,16 +3342,70 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: SquidForce, Backup
-Installed-Size: 7440
+Installed-Size: 7320
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm_f4b6d6e945d25f9143e388abb5babf3393e347dc129e8ff14731613efe97e19f.deb
-Size: 2084780
-MD5sum: 85a51fc8acb1b8b6d95923665cf17836
-SHA1: 52057237cd396c7ffcd9595c0378bec6a9948bba
-SHA256: f4b6d6e945d25f9143e388abb5babf3393e347dc129e8ff14731613efe97e19f
+Filename: ./debs/iphoneos-arm64e/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64e_f3ead824e16c013407dac1fc67c1ee3567b33065e3dd428e644bde3e2a8d7213.deb
+Size: 2068430
+MD5sum: c41b67e46b3ff44e2a9b26412d5c50e4
+SHA1: acb26f7f56d85e3a9a2327edcf2816e2b992c6de
+SHA256: f3ead824e16c013407dac1fc67c1ee3567b33065e3dd428e644bde3e2a8d7213
+Section: Tweaks
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce, Backup
+Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.6.3
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 7384
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debs/iphoneos-arm64e/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64e_9902e35e58c7578e47bfccb5a632cbd43c0fafdb6a6c0013e3d1c3c603133a46.deb
+Size: 2066646
+MD5sum: 03bb11581582d31f744c81db22c54e50
+SHA1: 304f946a0b5bca8d7c8694bb5873f7ef84f7ac9a
+SHA256: 9902e35e58c7578e47bfccb5a632cbd43c0fafdb6a6c0013e3d1c3c603133a46
+Section: Tweaks
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce, Backup
+Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.6.3
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 7276
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64_778bff52e1d41779ec9f7cb5b0cf6f5fb31ddae5bdd5b8a2044bea8a7327e468.deb
+Size: 2063456
+MD5sum: 6be3fe960e15254d6aeb1f436bc2183b
+SHA1: 73fa1c113c16f817830e4ea2cc1288d8e108878f
+SHA256: 778bff52e1d41779ec9f7cb5b0cf6f5fb31ddae5bdd5b8a2044bea8a7327e468
+Section: Tweaks
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce, Backup
+Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.6.3
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 7292
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.3_iphoneos-arm64_1240516fb919eb35d4b3c58f7a92e5e8900a79ad5b984b2eba0a97c092dc87e7.deb
+Size: 2067962
+MD5sum: c1d1c6cec0d08990500674ef220bc6be
+SHA1: eaf10ec17a5a6d04b58783c87a82a9e59fa8924e
+SHA256: 1240516fb919eb35d4b3c58f7a92e5e8900a79ad5b984b2eba0a97c092dc87e7
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3414,16 +3414,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6660
+Installed-Size: 6612
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm64_5657d03a7716a929c2b76caba8193e4b779c38a6dad11711b6642c76e5819dcd.deb
-Size: 1903194
-MD5sum: f2a659c8431e47576418a8f64c6f68b7
-SHA1: 45106d5e2e877536f0607854f549fd7edd8965b6
-SHA256: 5657d03a7716a929c2b76caba8193e4b779c38a6dad11711b6642c76e5819dcd
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm_dbd4cea48f12ba62f27074f7586dee3ec1b98e6c0cf54d71418391ba6997447d.deb
+Size: 1889970
+MD5sum: 2f806abef7cd8b591a854a47c4436967
+SHA1: d9a8ee4d3e36036520fac534120d8fdf23ea4d8c
+SHA256: dbd4cea48f12ba62f27074f7586dee3ec1b98e6c0cf54d71418391ba6997447d
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3450,16 +3450,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6612
+Installed-Size: 6660
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm_dbd4cea48f12ba62f27074f7586dee3ec1b98e6c0cf54d71418391ba6997447d.deb
-Size: 1889970
-MD5sum: 2f806abef7cd8b591a854a47c4436967
-SHA1: d9a8ee4d3e36036520fac534120d8fdf23ea4d8c
-SHA256: dbd4cea48f12ba62f27074f7586dee3ec1b98e6c0cf54d71418391ba6997447d
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm64_5657d03a7716a929c2b76caba8193e4b779c38a6dad11711b6642c76e5819dcd.deb
+Size: 1903194
+MD5sum: f2a659c8431e47576418a8f64c6f68b7
+SHA1: 45106d5e2e877536f0607854f549fd7edd8965b6
+SHA256: 5657d03a7716a929c2b76caba8193e4b779c38a6dad11711b6642c76e5819dcd
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3468,16 +3468,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6532
+Installed-Size: 6580
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.6_iphoneos-arm64_57235044ad4d492686a0912e4feddc7ff67c4120420d1039e255f4b46d180302.deb
-Size: 1883166
-MD5sum: d69118c20de15590de401e5e1985a2b2
-SHA1: 12147ae9b9e61e17f437f1a7c7f6a313d8d375a9
-SHA256: 57235044ad4d492686a0912e4feddc7ff67c4120420d1039e255f4b46d180302
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.6_iphoneos-arm_8638240cfb5794f036dd37461aa6aeb8c5aaf84493a5d767c26ec1b3ae47b195.deb
+Size: 1893256
+MD5sum: f21edd8a36fed050d89629faf12c807d
+SHA1: 964d0f190c731cd8b325371884ad445ef8c5b737
+SHA256: 8638240cfb5794f036dd37461aa6aeb8c5aaf84493a5d767c26ec1b3ae47b195
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3504,16 +3504,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6580
+Installed-Size: 6532
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.6_iphoneos-arm_8638240cfb5794f036dd37461aa6aeb8c5aaf84493a5d767c26ec1b3ae47b195.deb
-Size: 1893256
-MD5sum: f21edd8a36fed050d89629faf12c807d
-SHA1: 964d0f190c731cd8b325371884ad445ef8c5b737
-SHA256: 8638240cfb5794f036dd37461aa6aeb8c5aaf84493a5d767c26ec1b3ae47b195
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.6_iphoneos-arm64_57235044ad4d492686a0912e4feddc7ff67c4120420d1039e255f4b46d180302.deb
+Size: 1883166
+MD5sum: d69118c20de15590de401e5e1985a2b2
+SHA1: 12147ae9b9e61e17f437f1a7c7f6a313d8d375a9
+SHA256: 57235044ad4d492686a0912e4feddc7ff67c4120420d1039e255f4b46d180302
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3522,16 +3522,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6532
+Installed-Size: 6612
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.9_iphoneos-arm64_f4e0fea81f25703dd257dcb57a4d2ee2de515d4d55b6edee16ef91e3722dca4f.deb
-Size: 1876548
-MD5sum: 700bcec4744ced044b9128ede4afa54b
-SHA1: 6cc17a7c775e71cd1d90245062236dff80ce58d8
-SHA256: f4e0fea81f25703dd257dcb57a4d2ee2de515d4d55b6edee16ef91e3722dca4f
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.9_iphoneos-arm_291d0aa1240d22ca6ce1b975c96c135e6e557df2ae2e94918af118c3dee5358b.deb
+Size: 1889728
+MD5sum: c2dbdab9d5af592baacdf978581c638e
+SHA1: ce19d84d6dbbf20bd828d20333ca6edc9a00153a
+SHA256: 291d0aa1240d22ca6ce1b975c96c135e6e557df2ae2e94918af118c3dee5358b
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3558,16 +3558,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.6.9
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6612
+Installed-Size: 6532
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.6.9_iphoneos-arm_291d0aa1240d22ca6ce1b975c96c135e6e557df2ae2e94918af118c3dee5358b.deb
-Size: 1889728
-MD5sum: c2dbdab9d5af592baacdf978581c638e
-SHA1: ce19d84d6dbbf20bd828d20333ca6edc9a00153a
-SHA256: 291d0aa1240d22ca6ce1b975c96c135e6e557df2ae2e94918af118c3dee5358b
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.6.9_iphoneos-arm64_f4e0fea81f25703dd257dcb57a4d2ee2de515d4d55b6edee16ef91e3722dca4f.deb
+Size: 1876548
+MD5sum: 700bcec4744ced044b9128ede4afa54b
+SHA1: 6cc17a7c775e71cd1d90245062236dff80ce58d8
+SHA256: f4e0fea81f25703dd257dcb57a4d2ee2de515d4d55b6edee16ef91e3722dca4f
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3576,16 +3576,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6460
+Installed-Size: 6492
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.2_iphoneos-arm64_bb6f35e4668ef50ca0429edf49c9207268e79787519d15f7095adb7746bb90fc.deb
-Size: 1735880
-MD5sum: 9c20424ada92f184d1abeaed4535a315
-SHA1: 183a89f452d83557b0426b315e011999b11ed007
-SHA256: bb6f35e4668ef50ca0429edf49c9207268e79787519d15f7095adb7746bb90fc
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.2_iphoneos-arm_ca0a52ed20f0e21bae54e18f4966885f116aca9e01f7ecadf99d0287a9fc56c2.deb
+Size: 1732460
+MD5sum: 088cdc6d43514d4f18d46f2b7a05888b
+SHA1: 44f8fa0feaa0fe4f34d1f84740fb272b2c245e59
+SHA256: ca0a52ed20f0e21bae54e18f4966885f116aca9e01f7ecadf99d0287a9fc56c2
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3612,16 +3612,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6492
+Installed-Size: 6460
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.2_iphoneos-arm_ca0a52ed20f0e21bae54e18f4966885f116aca9e01f7ecadf99d0287a9fc56c2.deb
-Size: 1732460
-MD5sum: 088cdc6d43514d4f18d46f2b7a05888b
-SHA1: 44f8fa0feaa0fe4f34d1f84740fb272b2c245e59
-SHA256: ca0a52ed20f0e21bae54e18f4966885f116aca9e01f7ecadf99d0287a9fc56c2
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.2_iphoneos-arm64_bb6f35e4668ef50ca0429edf49c9207268e79787519d15f7095adb7746bb90fc.deb
+Size: 1735880
+MD5sum: 9c20424ada92f184d1abeaed4535a315
+SHA1: 183a89f452d83557b0426b315e011999b11ed007
+SHA256: bb6f35e4668ef50ca0429edf49c9207268e79787519d15f7095adb7746bb90fc
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3630,16 +3630,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
-Installed-Size: 6588
+Installed-Size: 6636
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.5_iphoneos-arm64_392d6bab136168153a69338bf1f78061f5645d520bdbbda940e5b449bad8dafc.deb
-Size: 1762462
-MD5sum: 7cee65c93496520bfaed76b5fab2a73c
-SHA1: 23f5888d85c970ef5a29dde360c1f77f5fd050d5
-SHA256: 392d6bab136168153a69338bf1f78061f5645d520bdbbda940e5b449bad8dafc
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.5_iphoneos-arm_f11ede1468cfd65bb8d64e396b218c563cf51c17819a206a9e4f9d93efe7890b.deb
+Size: 1767368
+MD5sum: 111738558ca144d4bbb0f2acb04c2a94
+SHA1: 63374b00c924657bca37bfb8cd8db3fde00dede3
+SHA256: f11ede1468cfd65bb8d64e396b218c563cf51c17819a206a9e4f9d93efe7890b
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3666,16 +3666,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
-Installed-Size: 6636
+Installed-Size: 6588
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.5_iphoneos-arm_f11ede1468cfd65bb8d64e396b218c563cf51c17819a206a9e4f9d93efe7890b.deb
-Size: 1767368
-MD5sum: 111738558ca144d4bbb0f2acb04c2a94
-SHA1: 63374b00c924657bca37bfb8cd8db3fde00dede3
-SHA256: f11ede1468cfd65bb8d64e396b218c563cf51c17819a206a9e4f9d93efe7890b
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.5_iphoneos-arm64_392d6bab136168153a69338bf1f78061f5645d520bdbbda940e5b449bad8dafc.deb
+Size: 1762462
+MD5sum: 7cee65c93496520bfaed76b5fab2a73c
+SHA1: 23f5888d85c970ef5a29dde360c1f77f5fd050d5
+SHA256: 392d6bab136168153a69338bf1f78061f5645d520bdbbda940e5b449bad8dafc
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3684,16 +3684,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 6636
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.6_iphoneos-arm64_6768d729484da674188785cec6b6cdde35c6fea30ad9e58b019172414201b054.deb
-Size: 1771540
-MD5sum: ecb98bb2e3a426283283cb4ad4ad1061
-SHA1: 164b102aee44072fe1470ab88bc6e7e2b07be56c
-SHA256: 6768d729484da674188785cec6b6cdde35c6fea30ad9e58b019172414201b054
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.6_iphoneos-arm_7e1a1d9a6e275859595e9c79d41c8c4361ff140f339f7f9969e5bb21b2ad3506.deb
+Size: 1768558
+MD5sum: bf5185ca6eb4654acf0c527e35075699
+SHA1: 84fd4c1b7703445b1d81478967ea157ab9335409
+SHA256: 7e1a1d9a6e275859595e9c79d41c8c4361ff140f339f7f9969e5bb21b2ad3506
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3720,16 +3720,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 6636
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.6_iphoneos-arm_7e1a1d9a6e275859595e9c79d41c8c4361ff140f339f7f9969e5bb21b2ad3506.deb
-Size: 1768558
-MD5sum: bf5185ca6eb4654acf0c527e35075699
-SHA1: 84fd4c1b7703445b1d81478967ea157ab9335409
-SHA256: 7e1a1d9a6e275859595e9c79d41c8c4361ff140f339f7f9969e5bb21b2ad3506
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.6_iphoneos-arm64_6768d729484da674188785cec6b6cdde35c6fea30ad9e58b019172414201b054.deb
+Size: 1771540
+MD5sum: ecb98bb2e3a426283283cb4ad4ad1061
+SHA1: 164b102aee44072fe1470ab88bc6e7e2b07be56c
+SHA256: 6768d729484da674188785cec6b6cdde35c6fea30ad9e58b019172414201b054
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3738,16 +3738,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.6-1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: SquidForce, Backup
 Installed-Size: 6620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64_783eadb006f533a3b0fe382adca5207907f71334150ba19a2e395e82d08702be.deb
-Size: 1769084
-MD5sum: 052d5080e630b1dcfdfec22648dfc154
-SHA1: de19c9317248c3e83710f7d4697b7d32080b7557
-SHA256: 783eadb006f533a3b0fe382adca5207907f71334150ba19a2e395e82d08702be
+Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm_0a61563dddd9e99c69f8879ca8cf956c33553c21c33e2c9ee5d75f3f80d5b7e1.deb
+Size: 1765586
+MD5sum: e974e4bcde1bed9651452fc215df8c7b
+SHA1: 4fc375e4b4cd1e80a920f19779e19a33fb5f3c7d
+SHA256: 0a61563dddd9e99c69f8879ca8cf956c33553c21c33e2c9ee5d75f3f80d5b7e1
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -3774,16 +3774,16 @@ Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.6-1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: SquidForce, Backup
 Installed-Size: 6620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: ./debs/iphoneos-arm/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm_0a61563dddd9e99c69f8879ca8cf956c33553c21c33e2c9ee5d75f3f80d5b7e1.deb
-Size: 1765586
-MD5sum: e974e4bcde1bed9651452fc215df8c7b
-SHA1: 4fc375e4b4cd1e80a920f19779e19a33fb5f3c7d
-SHA256: 0a61563dddd9e99c69f8879ca8cf956c33553c21c33e2c9ee5d75f3f80d5b7e1
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64_783eadb006f533a3b0fe382adca5207907f71334150ba19a2e395e82d08702be.deb
+Size: 1769084
+MD5sum: 052d5080e630b1dcfdfec22648dfc154
+SHA1: de19c9317248c3e83710f7d4697b7d32080b7557
+SHA256: 783eadb006f533a3b0fe382adca5207907f71334150ba19a2e395e82d08702be
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
